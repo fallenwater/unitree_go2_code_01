@@ -1,0 +1,49 @@
+[0.678s] Invoking command in '/home/xn/unitree_go2_ws/src/tutorial/go2_tutorial_py': AMENT_PREFIX_PATH=/home/xn/unitree_go2_ws/install/go2_tutorial_inter:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/xn/unitree_go2_ws/install/go2_tutorial_inter:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/xn/unitree_go2_ws/install/go2_tutorial_inter/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/xn/unitree_go2_ws/build/go2_tutorial_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/xn/unitree_go2_ws/install/go2_tutorial_py/lib/python3.8/site-packages:/home/xn/unitree_go2_ws/install/go2_tutorial_inter/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/go2_tutorial_py build --build-base /home/xn/unitree_go2_ws/build/go2_tutorial_py/build install --record /home/xn/unitree_go2_ws/build/go2_tutorial_py/install.log --install-scripts $base/lib/go2_tutorial_py --single-version-externally-managed install_data
+[0.861s] running egg_info
+[0.861s] writing ../../../build/go2_tutorial_py/go2_tutorial_py.egg-info/PKG-INFO
+[0.861s] writing dependency_links to ../../../build/go2_tutorial_py/go2_tutorial_py.egg-info/dependency_links.txt
+[0.862s] writing entry points to ../../../build/go2_tutorial_py/go2_tutorial_py.egg-info/entry_points.txt
+[0.862s] writing requirements to ../../../build/go2_tutorial_py/go2_tutorial_py.egg-info/requires.txt
+[0.862s] writing top-level names to ../../../build/go2_tutorial_py/go2_tutorial_py.egg-info/top_level.txt
+[0.907s] reading manifest file '../../../build/go2_tutorial_py/go2_tutorial_py.egg-info/SOURCES.txt'
+[0.908s] writing manifest file '../../../build/go2_tutorial_py/go2_tutorial_py.egg-info/SOURCES.txt'
+[0.909s] running build
+[0.909s] running build_py
+[0.909s] copying go2_tutorial_py/go2_ctrl.py -> /home/xn/unitree_go2_ws/build/go2_tutorial_py/build/lib/go2_tutorial_py
+[0.910s] copying go2_tutorial_py/go2_cruising_client.py -> /home/xn/unitree_go2_ws/build/go2_tutorial_py/build/lib/go2_tutorial_py
+[0.910s] copying go2_tutorial_py/go2_cruising_service.py -> /home/xn/unitree_go2_ws/build/go2_tutorial_py/build/lib/go2_tutorial_py
+[0.910s] copying go2_tutorial_py/__init__.py -> /home/xn/unitree_go2_ws/build/go2_tutorial_py/build/lib/go2_tutorial_py
+[0.911s] copying go2_tutorial_py/go2_state.py -> /home/xn/unitree_go2_ws/build/go2_tutorial_py/build/lib/go2_tutorial_py
+[0.911s] copying go2_tutorial_py/sport_model.py -> /home/xn/unitree_go2_ws/build/go2_tutorial_py/build/lib/go2_tutorial_py
+[0.915s] running install
+[0.916s] running install_lib
+[0.918s] copying /home/xn/unitree_go2_ws/build/go2_tutorial_py/build/lib/go2_tutorial_py/go2_ctrl.py -> /home/xn/unitree_go2_ws/install/go2_tutorial_py/lib/python3.8/site-packages/go2_tutorial_py
+[0.918s] copying /home/xn/unitree_go2_ws/build/go2_tutorial_py/build/lib/go2_tutorial_py/go2_cruising_client.py -> /home/xn/unitree_go2_ws/install/go2_tutorial_py/lib/python3.8/site-packages/go2_tutorial_py
+[0.919s] copying /home/xn/unitree_go2_ws/build/go2_tutorial_py/build/lib/go2_tutorial_py/go2_cruising_service.py -> /home/xn/unitree_go2_ws/install/go2_tutorial_py/lib/python3.8/site-packages/go2_tutorial_py
+[0.919s] copying /home/xn/unitree_go2_ws/build/go2_tutorial_py/build/lib/go2_tutorial_py/__init__.py -> /home/xn/unitree_go2_ws/install/go2_tutorial_py/lib/python3.8/site-packages/go2_tutorial_py
+[0.920s] copying /home/xn/unitree_go2_ws/build/go2_tutorial_py/build/lib/go2_tutorial_py/go2_state.py -> /home/xn/unitree_go2_ws/install/go2_tutorial_py/lib/python3.8/site-packages/go2_tutorial_py
+[0.920s] copying /home/xn/unitree_go2_ws/build/go2_tutorial_py/build/lib/go2_tutorial_py/sport_model.py -> /home/xn/unitree_go2_ws/install/go2_tutorial_py/lib/python3.8/site-packages/go2_tutorial_py
+[0.921s] byte-compiling /home/xn/unitree_go2_ws/install/go2_tutorial_py/lib/python3.8/site-packages/go2_tutorial_py/go2_ctrl.py to go2_ctrl.cpython-38.pyc
+[0.924s] byte-compiling /home/xn/unitree_go2_ws/install/go2_tutorial_py/lib/python3.8/site-packages/go2_tutorial_py/go2_cruising_client.py to go2_cruising_client.cpython-38.pyc
+[0.926s] byte-compiling /home/xn/unitree_go2_ws/install/go2_tutorial_py/lib/python3.8/site-packages/go2_tutorial_py/go2_cruising_service.py to go2_cruising_service.cpython-38.pyc
+[0.927s] byte-compiling /home/xn/unitree_go2_ws/install/go2_tutorial_py/lib/python3.8/site-packages/go2_tutorial_py/__init__.py to __init__.cpython-38.pyc
+[0.928s] byte-compiling /home/xn/unitree_go2_ws/install/go2_tutorial_py/lib/python3.8/site-packages/go2_tutorial_py/go2_state.py to go2_state.cpython-38.pyc
+[0.931s] byte-compiling /home/xn/unitree_go2_ws/install/go2_tutorial_py/lib/python3.8/site-packages/go2_tutorial_py/sport_model.py to sport_model.cpython-38.pyc
+[0.932s] running install_data
+[0.932s] copying resource/go2_tutorial_py -> /home/xn/unitree_go2_ws/install/go2_tutorial_py/share/ament_index/resource_index/packages
+[0.932s] copying package.xml -> /home/xn/unitree_go2_ws/install/go2_tutorial_py/share/go2_tutorial_py
+[0.933s] copying launch/go2_state.launch.py -> /home/xn/unitree_go2_ws/install/go2_tutorial_py/share/go2_tutorial_py/launch
+[0.933s] copying launch/go2_ctrl.launch.py -> /home/xn/unitree_go2_ws/install/go2_tutorial_py/share/go2_tutorial_py/launch
+[0.934s] copying launch/go2_cruising.launch.py -> /home/xn/unitree_go2_ws/install/go2_tutorial_py/share/go2_tutorial_py/launch
+[0.934s] copying params/go2_cruising_service.yaml -> /home/xn/unitree_go2_ws/install/go2_tutorial_py/share/go2_tutorial_py/params
+[0.934s] copying params/go2_state.yaml -> /home/xn/unitree_go2_ws/install/go2_tutorial_py/share/go2_tutorial_py/params
+[0.934s] running install_egg_info
+[0.938s] removing '/home/xn/unitree_go2_ws/install/go2_tutorial_py/lib/python3.8/site-packages/go2_tutorial_py-0.0.0-py3.8.egg-info' (and everything under it)
+[0.939s] Copying ../../../build/go2_tutorial_py/go2_tutorial_py.egg-info to /home/xn/unitree_go2_ws/install/go2_tutorial_py/lib/python3.8/site-packages/go2_tutorial_py-0.0.0-py3.8.egg-info
+[0.941s] running install_scripts
+[0.960s] Installing go2_cruising_client script to /home/xn/unitree_go2_ws/install/go2_tutorial_py/lib/go2_tutorial_py
+[0.960s] Installing go2_cruising_service script to /home/xn/unitree_go2_ws/install/go2_tutorial_py/lib/go2_tutorial_py
+[0.961s] Installing go2_ctrl script to /home/xn/unitree_go2_ws/install/go2_tutorial_py/lib/go2_tutorial_py
+[0.961s] Installing go2_state script to /home/xn/unitree_go2_ws/install/go2_tutorial_py/lib/go2_tutorial_py
+[0.962s] writing list of installed files to '/home/xn/unitree_go2_ws/build/go2_tutorial_py/install.log'
+[0.993s] Invoked command in '/home/xn/unitree_go2_ws/src/tutorial/go2_tutorial_py' returned '0': AMENT_PREFIX_PATH=/home/xn/unitree_go2_ws/install/go2_tutorial_inter:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/xn/unitree_go2_ws/install/go2_tutorial_inter:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/xn/unitree_go2_ws/install/go2_tutorial_inter/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/xn/unitree_go2_ws/build/go2_tutorial_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/xn/unitree_go2_ws/install/go2_tutorial_py/lib/python3.8/site-packages:/home/xn/unitree_go2_ws/install/go2_tutorial_inter/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/go2_tutorial_py build --build-base /home/xn/unitree_go2_ws/build/go2_tutorial_py/build install --record /home/xn/unitree_go2_ws/build/go2_tutorial_py/install.log --install-scripts $base/lib/go2_tutorial_py --single-version-externally-managed install_data

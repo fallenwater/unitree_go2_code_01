@@ -1,0 +1,50 @@
+[0.530s] Invoking command in '/home/xn/unitree_go2_ws/build/helloworld': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/xn/unitree_go2_ws/build/helloworld -- -j8 -l8
+[0.562s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.581s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.701s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.707s] -- Found rclcpp: 2.4.3 (/opt/ros/foxy/share/rclcpp/cmake)
+[0.737s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.737s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[0.855s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.889s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[0.891s] -- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+[1.006s] -- Found unitree_api: 0.0.0 (/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_api/share/unitree_api/cmake)
+[1.083s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[1.144s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.144s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.144s] -- Configured cppcheck include dirs: $<BUILD_INTERFACE:/home/xn/unitree_go2_ws/src/helloworld/helloworld/include>
+[1.145s] -- Configured cppcheck exclude dirs and/or files: 
+[1.145s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[1.145s] -- Configured cpplint exclude dirs and/or files: 
+[1.145s] -- Added test 'lint_cmake' to check CMake code style
+[1.145s] -- Added test 'uncrustify' to check C / C++ code style
+[1.145s] -- Configured uncrustify additional arguments: 
+[1.146s] -- Added test 'xmllint' to check XML markup files
+[1.167s] -- Configuring done
+[1.196s] -- Generating done
+[1.201s] -- Build files have been written to: /home/xn/unitree_go2_ws/build/helloworld
+[1.268s] [35m[1mScanning dependencies of target hello[0m
+[1.295s] [ 50%] [32mBuilding CXX object CMakeFiles/hello.dir/src/hello.cpp.o[0m
+[1.406s] [100%] [32m[1mLinking CXX executable hello[0m
+[1.542s] [100%] Built target hello
+[1.572s] Invoked command in '/home/xn/unitree_go2_ws/build/helloworld' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/xn/unitree_go2_ws/build/helloworld -- -j8 -l8
+[1.581s] Invoking command in '/home/xn/unitree_go2_ws/build/helloworld': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/xn/unitree_go2_ws/build/helloworld
+[1.597s] -- Install configuration: ""
+[1.598s] -- Execute custom install script
+[1.598s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/helloworld/lib/helloworld/hello
+[1.603s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/helloworld/share/ament_index/resource_index/package_run_dependencies/helloworld
+[1.604s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/helloworld/share/ament_index/resource_index/parent_prefix_path/helloworld
+[1.604s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/environment/ament_prefix_path.sh
+[1.605s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/environment/ament_prefix_path.dsv
+[1.607s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/environment/path.sh
+[1.610s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/environment/path.dsv
+[1.610s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/local_setup.bash
+[1.611s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/local_setup.sh
+[1.612s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/local_setup.zsh
+[1.614s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/local_setup.dsv
+[1.614s] -- Symlinking: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/package.dsv
+[1.648s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/helloworld/share/ament_index/resource_index/packages/helloworld
+[1.648s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/cmake/helloworldConfig.cmake
+[1.649s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/cmake/helloworldConfig-version.cmake
+[1.649s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/package.xml
+[1.656s] Invoked command in '/home/xn/unitree_go2_ws/build/helloworld' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/xn/unitree_go2_ws/build/helloworld

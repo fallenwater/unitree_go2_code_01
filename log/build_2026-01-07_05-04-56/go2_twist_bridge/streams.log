@@ -1,0 +1,51 @@
+[0.375s] Invoking command in '/home/xn/unitree_go2_ws/build/go2_twist_bridge': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/xn/unitree_go2_ws/build/go2_twist_bridge -- -j8 -l8
+[0.554s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.554s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.554s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.554s] -- Found rclcpp: 2.4.3 (/opt/ros/foxy/share/rclcpp/cmake)
+[0.592s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.594s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[0.720s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.763s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[0.764s] -- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+[0.883s] -- Found geometry_msgs: 2.0.5 (/opt/ros/foxy/share/geometry_msgs/cmake)
+[0.921s] -- Found unitree_api: 0.0.0 (/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_api/share/unitree_api/cmake)
+[0.974s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[1.065s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.065s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.066s] -- Configured cppcheck include dirs: $<BUILD_INTERFACE:/home/xn/unitree_go2_ws/src/base/go2_twist_bridge/include>
+[1.066s] -- Configured cppcheck exclude dirs and/or files: 
+[1.068s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[1.068s] -- Configured cpplint exclude dirs and/or files: 
+[1.068s] -- Added test 'lint_cmake' to check CMake code style
+[1.069s] -- Added test 'uncrustify' to check C / C++ code style
+[1.069s] -- Configured uncrustify additional arguments: 
+[1.069s] -- Added test 'xmllint' to check XML markup files
+[1.074s] -- Configuring done
+[1.090s] -- Generating done
+[1.090s] -- Build files have been written to: /home/xn/unitree_go2_ws/build/go2_twist_bridge
+[1.155s] [35m[1mScanning dependencies of target twist_bridge[0m
+[1.184s] [ 50%] [32mBuilding CXX object CMakeFiles/twist_bridge.dir/src/twist_bridge.cpp.o[0m
+[7.968s] [100%] [32m[1mLinking CXX executable twist_bridge[0m
+[8.233s] [100%] Built target twist_bridge
+[8.325s] Invoked command in '/home/xn/unitree_go2_ws/build/go2_twist_bridge' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/xn/unitree_go2_ws/build/go2_twist_bridge -- -j8 -l8
+[8.360s] Invoking command in '/home/xn/unitree_go2_ws/build/go2_twist_bridge': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/xn/unitree_go2_ws/build/go2_twist_bridge
+[8.361s] -- Install configuration: ""
+[8.362s] -- Execute custom install script
+[8.363s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_twist_bridge/lib/go2_twist_bridge/twist_bridge
+[8.364s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/ament_index/resource_index/package_run_dependencies/go2_twist_bridge
+[8.365s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/ament_index/resource_index/parent_prefix_path/go2_twist_bridge
+[8.368s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/environment/ament_prefix_path.sh
+[8.369s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/environment/ament_prefix_path.dsv
+[8.370s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/environment/path.sh
+[8.370s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/environment/path.dsv
+[8.371s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/local_setup.bash
+[8.371s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/local_setup.sh
+[8.371s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/local_setup.zsh
+[8.372s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/local_setup.dsv
+[8.372s] -- Symlinking: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/package.dsv
+[8.377s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/ament_index/resource_index/packages/go2_twist_bridge
+[8.378s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/cmake/go2_twist_bridgeConfig.cmake
+[8.378s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/cmake/go2_twist_bridgeConfig-version.cmake
+[8.379s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/package.xml
+[8.389s] Invoked command in '/home/xn/unitree_go2_ws/build/go2_twist_bridge' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/xn/unitree_go2_ws/build/go2_twist_bridge
