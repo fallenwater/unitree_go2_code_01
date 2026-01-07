@@ -1,0 +1,2 @@
+Invoking command in '/home/xn/unitree_go2_ws/build/go2_tutorial_inter': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/xn/unitree_go2_ws/src/tutorial/go2_tutorial_inter -DCMAKE_INSTALL_PREFIX=/home/xn/unitree_go2_ws/install/go2_tutorial_inter
+Invoked command in '/home/xn/unitree_go2_ws/build/go2_tutorial_inter' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/xn/unitree_go2_ws/src/tutorial/go2_tutorial_inter -DCMAKE_INSTALL_PREFIX=/home/xn/unitree_go2_ws/install/go2_tutorial_inter

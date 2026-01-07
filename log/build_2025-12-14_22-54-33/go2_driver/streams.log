@@ -1,0 +1,77 @@
+[0.076s] Invoking command in '/home/xn/unitree_go2_ws/build/go2_driver': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/xn/unitree_go2_ws/install/my_test_py:/home/xn/unitree_go2_ws/install/helloworld_py:/home/xn/unitree_go2_ws/install/go2_twist_bridge_py:/home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard:/opt/ros/foxy /usr/bin/cmake /home/xn/unitree_go2_ws/src/base/go2_driver -DCMAKE_INSTALL_PREFIX=/home/xn/unitree_go2_ws/install/go2_driver
+[0.858s] -- The C compiler identification is GNU 9.4.0
+[0.859s] -- The CXX compiler identification is GNU 9.4.0
+[0.859s] -- Check for working C compiler: /usr/bin/cc
+[0.859s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.860s] -- Detecting C compiler ABI info
+[0.860s] -- Detecting C compiler ABI info - done
+[0.860s] -- Detecting C compile features
+[0.860s] -- Detecting C compile features - done
+[0.860s] -- Check for working CXX compiler: /usr/bin/c++
+[0.861s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.861s] -- Detecting CXX compiler ABI info
+[0.861s] -- Detecting CXX compiler ABI info - done
+[0.861s] -- Detecting CXX compile features
+[0.861s] -- Detecting CXX compile features - done
+[0.862s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.868s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.869s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.153s] -- Found rclcpp: 2.4.3 (/opt/ros/foxy/share/rclcpp/cmake)
+[1.295s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.314s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[1.536s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[1.615s] -- Found FastRTPS: /opt/ros/foxy/include  
+[1.931s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.153s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[2.165s] -- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+[2.171s] -- Looking for pthread.h
+[2.340s] -- Looking for pthread.h - found
+[2.340s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[2.485s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[2.485s] -- Looking for pthread_create in pthreads
+[2.590s] -- Looking for pthread_create in pthreads - not found
+[2.591s] -- Looking for pthread_create in pthread
+[2.726s] -- Looking for pthread_create in pthread - found
+[2.727s] -- Found Threads: TRUE  
+[3.072s] -- Found unitree_go: 0.0.0 (/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_go/share/unitree_go/cmake)
+[3.280s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[3.475s] -- Added test 'copyright' to check source files copyright and LICENSE
+[3.478s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[3.478s] -- Configured cppcheck include dirs: $<BUILD_INTERFACE:/home/xn/unitree_go2_ws/src/base/go2_driver/include>
+[3.478s] -- Configured cppcheck exclude dirs and/or files: 
+[3.480s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[3.481s] -- Configured cpplint exclude dirs and/or files: 
+[3.484s] -- Added test 'lint_cmake' to check CMake code style
+[3.488s] -- Added test 'uncrustify' to check C / C++ code style
+[3.488s] -- Configured uncrustify additional arguments: 
+[3.490s] -- Added test 'xmllint' to check XML markup files
+[3.495s] -- Configuring done
+[3.507s] -- Generating done
+[3.514s] -- Build files have been written to: /home/xn/unitree_go2_ws/build/go2_driver
+[3.527s] Invoked command in '/home/xn/unitree_go2_ws/build/go2_driver' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/xn/unitree_go2_ws/install/my_test_py:/home/xn/unitree_go2_ws/install/helloworld_py:/home/xn/unitree_go2_ws/install/go2_twist_bridge_py:/home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard:/opt/ros/foxy /usr/bin/cmake /home/xn/unitree_go2_ws/src/base/go2_driver -DCMAKE_INSTALL_PREFIX=/home/xn/unitree_go2_ws/install/go2_driver
+[3.534s] Invoking command in '/home/xn/unitree_go2_ws/build/go2_driver': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/xn/unitree_go2_ws/install/my_test_py:/home/xn/unitree_go2_ws/install/helloworld_py:/home/xn/unitree_go2_ws/install/go2_twist_bridge_py:/home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard:/opt/ros/foxy /usr/bin/cmake --build /home/xn/unitree_go2_ws/build/go2_driver -- -j8 -l8
+[3.597s] [35m[1mScanning dependencies of target driver[0m
+[3.617s] [ 50%] [32mBuilding CXX object CMakeFiles/driver.dir/src/driver.cpp.o[0m
+[3.675s] [100%] [32m[1mLinking CXX executable driver[0m
+[3.794s] [100%] Built target driver
+[3.817s] Invoked command in '/home/xn/unitree_go2_ws/build/go2_driver' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/xn/unitree_go2_ws/install/my_test_py:/home/xn/unitree_go2_ws/install/helloworld_py:/home/xn/unitree_go2_ws/install/go2_twist_bridge_py:/home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard:/opt/ros/foxy /usr/bin/cmake --build /home/xn/unitree_go2_ws/build/go2_driver -- -j8 -l8
+[3.820s] Invoking command in '/home/xn/unitree_go2_ws/build/go2_driver': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/xn/unitree_go2_ws/install/my_test_py:/home/xn/unitree_go2_ws/install/helloworld_py:/home/xn/unitree_go2_ws/install/go2_twist_bridge_py:/home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard:/opt/ros/foxy /usr/bin/cmake --install /home/xn/unitree_go2_ws/build/go2_driver
+[3.834s] -- Install configuration: ""
+[3.835s] -- Installing: /home/xn/unitree_go2_ws/install/go2_driver/lib/go2_driver/driver
+[3.835s] -- Set runtime path of "/home/xn/unitree_go2_ws/install/go2_driver/lib/go2_driver/driver" to ""
+[3.836s] -- Installing: /home/xn/unitree_go2_ws/install/go2_driver/share/ament_index/resource_index/package_run_dependencies/go2_driver
+[3.836s] -- Installing: /home/xn/unitree_go2_ws/install/go2_driver/share/ament_index/resource_index/parent_prefix_path/go2_driver
+[3.836s] -- Installing: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/environment/ament_prefix_path.sh
+[3.837s] -- Installing: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/environment/ament_prefix_path.dsv
+[3.837s] -- Installing: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/environment/path.sh
+[3.837s] -- Installing: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/environment/path.dsv
+[3.837s] -- Installing: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/local_setup.bash
+[3.838s] -- Installing: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/local_setup.sh
+[3.838s] -- Installing: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/local_setup.zsh
+[3.838s] -- Installing: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/local_setup.dsv
+[3.838s] -- Installing: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/package.dsv
+[3.839s] -- Installing: /home/xn/unitree_go2_ws/install/go2_driver/share/ament_index/resource_index/packages/go2_driver
+[3.839s] -- Installing: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/cmake/go2_driverConfig.cmake
+[3.839s] -- Installing: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/cmake/go2_driverConfig-version.cmake
+[3.839s] -- Installing: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/package.xml
+[3.842s] Invoked command in '/home/xn/unitree_go2_ws/build/go2_driver' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/xn/unitree_go2_ws/install/my_test_py:/home/xn/unitree_go2_ws/install/helloworld_py:/home/xn/unitree_go2_ws/install/go2_twist_bridge_py:/home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard:/opt/ros/foxy /usr/bin/cmake --install /home/xn/unitree_go2_ws/build/go2_driver

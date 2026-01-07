@@ -1,0 +1,7 @@
+{
+  "package_name": "go2_tutorial_inter",
+  "non_idl_tuples": [
+    "/home/xn/unitree_go2_ws/src/tutorial/go2_tutorial_inter:srv/Cruising.srv",
+    "/home/xn/unitree_go2_ws/src/tutorial/go2_tutorial_inter:action/Nav.action"
+  ]
+}

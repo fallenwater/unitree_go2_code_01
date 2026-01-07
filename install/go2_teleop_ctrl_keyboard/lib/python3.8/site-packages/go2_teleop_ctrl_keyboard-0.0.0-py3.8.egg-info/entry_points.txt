@@ -1,0 +1,3 @@
+[console_scripts]
+go2_teleop_ctrl_keyboard = go2_teleop_ctrl_keyboard.go2_teleop_ctrl_keyboard:main
+

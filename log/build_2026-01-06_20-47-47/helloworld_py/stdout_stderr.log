@@ -1,0 +1,18 @@
+running develop
+running egg_info
+writing helloworld_py.egg-info/PKG-INFO
+writing dependency_links to helloworld_py.egg-info/dependency_links.txt
+writing entry points to helloworld_py.egg-info/entry_points.txt
+writing requirements to helloworld_py.egg-info/requires.txt
+writing top-level names to helloworld_py.egg-info/top_level.txt
+reading manifest file 'helloworld_py.egg-info/SOURCES.txt'
+writing manifest file 'helloworld_py.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/xn/unitree_go2_ws/install/helloworld_py/lib/python3.8/site-packages/site.py
+Creating /home/xn/unitree_go2_ws/install/helloworld_py/lib/python3.8/site-packages/helloworld-py.egg-link (link to .)
+Installing hello_py script to /home/xn/unitree_go2_ws/install/helloworld_py/lib/helloworld_py
+
+Installed /home/xn/unitree_go2_ws/build/helloworld_py
+running symlink_data
+symbolically linking /home/xn/unitree_go2_ws/build/helloworld_py/resource/helloworld_py -> /home/xn/unitree_go2_ws/install/helloworld_py/share/ament_index/resource_index/packages
+symbolically linking /home/xn/unitree_go2_ws/build/helloworld_py/package.xml -> /home/xn/unitree_go2_ws/install/helloworld_py/share/helloworld_py

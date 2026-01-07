@@ -1,0 +1,79 @@
+{
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target"
+		],
+		"files" : 
+		[
+			"/home/xn/unitree_go2_ws/build/go2_tutorial_inter/go2_tutorial_inter__py/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "go2_tutorial_inter::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "go2_tutorial_inter__py::@f99ca3d9e0d024646691",
+	"name" : "go2_tutorial_inter__py",
+	"paths" : 
+	{
+		"build" : "go2_tutorial_inter__py",
+		"source" : "/home/xn/unitree_go2_ws/build/go2_tutorial_inter/go2_tutorial_inter__py"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "/home/xn/unitree_go2_ws/build/go2_tutorial_inter/go2_tutorial_inter__py/CMakeFiles/go2_tutorial_inter__py",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/xn/unitree_go2_ws/build/go2_tutorial_inter/go2_tutorial_inter__py/CMakeFiles/go2_tutorial_inter__py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/xn/unitree_go2_ws/build/go2_tutorial_inter/rosidl_generator_py/go2_tutorial_inter/_go2_tutorial_inter_s.ep.rosidl_typesupport_fastrtps_c.c.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

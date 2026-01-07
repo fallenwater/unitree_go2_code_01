@@ -1,0 +1,21 @@
+[2.193s] Invoking command in '/home/xn/unitree_go2_ws/src/helloworld/helloworld_py': PYTHONPATH=/home/xn/unitree_go2_ws/build/helloworld_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/xn/unitree_go2_ws/install/helloworld_py/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/helloworld_py build --build-base /home/xn/unitree_go2_ws/build/helloworld_py/build install --record /home/xn/unitree_go2_ws/build/helloworld_py/install.log --install-scripts $base/lib/helloworld_py --single-version-externally-managed install_data
+[2.579s] running egg_info
+[2.583s] writing ../../../build/helloworld_py/helloworld_py.egg-info/PKG-INFO
+[2.583s] writing dependency_links to ../../../build/helloworld_py/helloworld_py.egg-info/dependency_links.txt
+[2.583s] writing entry points to ../../../build/helloworld_py/helloworld_py.egg-info/entry_points.txt
+[2.584s] writing requirements to ../../../build/helloworld_py/helloworld_py.egg-info/requires.txt
+[2.584s] writing top-level names to ../../../build/helloworld_py/helloworld_py.egg-info/top_level.txt
+[2.640s] reading manifest file '../../../build/helloworld_py/helloworld_py.egg-info/SOURCES.txt'
+[2.641s] writing manifest file '../../../build/helloworld_py/helloworld_py.egg-info/SOURCES.txt'
+[2.642s] running build
+[2.642s] running build_py
+[2.642s] running install
+[2.644s] running install_lib
+[2.646s] running install_data
+[2.646s] running install_egg_info
+[2.653s] removing '/home/xn/unitree_go2_ws/install/helloworld_py/lib/python3.8/site-packages/helloworld_py-0.0.0-py3.8.egg-info' (and everything under it)
+[2.654s] Copying ../../../build/helloworld_py/helloworld_py.egg-info to /home/xn/unitree_go2_ws/install/helloworld_py/lib/python3.8/site-packages/helloworld_py-0.0.0-py3.8.egg-info
+[2.657s] running install_scripts
+[2.699s] Installing hello_py script to /home/xn/unitree_go2_ws/install/helloworld_py/lib/helloworld_py
+[2.700s] writing list of installed files to '/home/xn/unitree_go2_ws/build/helloworld_py/install.log'
+[2.752s] Invoked command in '/home/xn/unitree_go2_ws/src/helloworld/helloworld_py' returned '0': PYTHONPATH=/home/xn/unitree_go2_ws/build/helloworld_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/xn/unitree_go2_ws/install/helloworld_py/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/helloworld_py build --build-base /home/xn/unitree_go2_ws/build/helloworld_py/build install --record /home/xn/unitree_go2_ws/build/helloworld_py/install.log --install-scripts $base/lib/helloworld_py --single-version-externally-managed install_data

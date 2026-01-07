@@ -1,0 +1,33 @@
+[1.773s] Invoking command in '/home/xn/unitree_go2_ws/build/go2_twist_bridge_py': PYTHONPATH=/home/xn/unitree_go2_ws/build/go2_twist_bridge_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/xn/unitree_go2_ws/install/go2_twist_bridge_py/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/xn/unitree_go2_ws/build/go2_twist_bridge_py/build
+[2.310s] running develop
+[2.579s] Removing /home/xn/unitree_go2_ws/install/go2_twist_bridge_py/lib/python3.8/site-packages/go2-twist-bridge-py.egg-link (link to .)
+[2.945s] Invoked command in '/home/xn/unitree_go2_ws/build/go2_twist_bridge_py' returned '0': PYTHONPATH=/home/xn/unitree_go2_ws/build/go2_twist_bridge_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/xn/unitree_go2_ws/install/go2_twist_bridge_py/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/xn/unitree_go2_ws/build/go2_twist_bridge_py/build
+[2.946s] Invoking command in '/home/xn/unitree_go2_ws/src/base/go2_twist_bridge_py': PYTHONPATH=/home/xn/unitree_go2_ws/build/go2_twist_bridge_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/xn/unitree_go2_ws/install/go2_twist_bridge_py/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/go2_twist_bridge_py build --build-base /home/xn/unitree_go2_ws/build/go2_twist_bridge_py/build install --record /home/xn/unitree_go2_ws/build/go2_twist_bridge_py/install.log --install-scripts $base/lib/go2_twist_bridge_py --single-version-externally-managed install_data --force
+[3.328s] running egg_info
+[3.329s] writing ../../../build/go2_twist_bridge_py/go2_twist_bridge_py.egg-info/PKG-INFO
+[3.330s] writing dependency_links to ../../../build/go2_twist_bridge_py/go2_twist_bridge_py.egg-info/dependency_links.txt
+[3.330s] writing entry points to ../../../build/go2_twist_bridge_py/go2_twist_bridge_py.egg-info/entry_points.txt
+[3.331s] writing requirements to ../../../build/go2_twist_bridge_py/go2_twist_bridge_py.egg-info/requires.txt
+[3.332s] writing top-level names to ../../../build/go2_twist_bridge_py/go2_twist_bridge_py.egg-info/top_level.txt
+[3.390s] reading manifest file '../../../build/go2_twist_bridge_py/go2_twist_bridge_py.egg-info/SOURCES.txt'
+[3.391s] writing manifest file '../../../build/go2_twist_bridge_py/go2_twist_bridge_py.egg-info/SOURCES.txt'
+[3.392s] running build
+[3.392s] running build_py
+[3.392s] running install
+[3.400s] running install_lib
+[3.400s] creating /home/xn/unitree_go2_ws/install/go2_twist_bridge_py/lib/python3.8/site-packages/go2_twist_bridge_py
+[3.400s] copying /home/xn/unitree_go2_ws/build/go2_twist_bridge_py/build/lib/go2_twist_bridge_py/__init__.py -> /home/xn/unitree_go2_ws/install/go2_twist_bridge_py/lib/python3.8/site-packages/go2_twist_bridge_py
+[3.400s] copying /home/xn/unitree_go2_ws/build/go2_twist_bridge_py/build/lib/go2_twist_bridge_py/sport_model.py -> /home/xn/unitree_go2_ws/install/go2_twist_bridge_py/lib/python3.8/site-packages/go2_twist_bridge_py
+[3.400s] copying /home/xn/unitree_go2_ws/build/go2_twist_bridge_py/build/lib/go2_twist_bridge_py/twist_bridge_py.py -> /home/xn/unitree_go2_ws/install/go2_twist_bridge_py/lib/python3.8/site-packages/go2_twist_bridge_py
+[3.402s] byte-compiling /home/xn/unitree_go2_ws/install/go2_twist_bridge_py/lib/python3.8/site-packages/go2_twist_bridge_py/__init__.py to __init__.cpython-38.pyc
+[3.402s] byte-compiling /home/xn/unitree_go2_ws/install/go2_twist_bridge_py/lib/python3.8/site-packages/go2_twist_bridge_py/sport_model.py to sport_model.cpython-38.pyc
+[3.402s] byte-compiling /home/xn/unitree_go2_ws/install/go2_twist_bridge_py/lib/python3.8/site-packages/go2_twist_bridge_py/twist_bridge_py.py to twist_bridge_py.cpython-38.pyc
+[3.408s] running install_data
+[3.409s] copying resource/go2_twist_bridge_py -> /home/xn/unitree_go2_ws/install/go2_twist_bridge_py/share/ament_index/resource_index/packages
+[3.409s] copying package.xml -> /home/xn/unitree_go2_ws/install/go2_twist_bridge_py/share/go2_twist_bridge_py
+[3.409s] running install_egg_info
+[3.411s] Copying ../../../build/go2_twist_bridge_py/go2_twist_bridge_py.egg-info to /home/xn/unitree_go2_ws/install/go2_twist_bridge_py/lib/python3.8/site-packages/go2_twist_bridge_py-0.0.0-py3.8.egg-info
+[3.412s] running install_scripts
+[3.435s] Installing twist_bridge_py script to /home/xn/unitree_go2_ws/install/go2_twist_bridge_py/lib/go2_twist_bridge_py
+[3.436s] writing list of installed files to '/home/xn/unitree_go2_ws/build/go2_twist_bridge_py/install.log'
+[3.480s] Invoked command in '/home/xn/unitree_go2_ws/src/base/go2_twist_bridge_py' returned '0': PYTHONPATH=/home/xn/unitree_go2_ws/build/go2_twist_bridge_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/xn/unitree_go2_ws/install/go2_twist_bridge_py/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/go2_twist_bridge_py build --build-base /home/xn/unitree_go2_ws/build/go2_twist_bridge_py/build install --record /home/xn/unitree_go2_ws/build/go2_twist_bridge_py/install.log --install-scripts $base/lib/go2_twist_bridge_py --single-version-externally-managed install_data --force

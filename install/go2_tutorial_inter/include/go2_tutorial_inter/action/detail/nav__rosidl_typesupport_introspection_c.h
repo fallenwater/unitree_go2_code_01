@@ -1,0 +1,1 @@
+/home/xn/unitree_go2_ws/build/go2_tutorial_inter/rosidl_typesupport_introspection_c/go2_tutorial_inter/action/detail/nav__rosidl_typesupport_introspection_c.h

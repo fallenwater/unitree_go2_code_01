@@ -1,0 +1,55 @@
+[0.054s] Invoking command in '/home/xn/unitree_go2_ws/build/go2_driver': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/xn/unitree_go2_ws/build/go2_driver -- -j8 -l8
+[0.686s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.686s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.687s] -- Found rclcpp: 2.4.3 (/opt/ros/foxy/share/rclcpp/cmake)
+[0.688s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.688s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[0.689s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.689s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[0.689s] -- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+[0.692s] -- Found unitree_go: 0.0.0 (/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_go/share/unitree_go/cmake)
+[0.801s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[0.889s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.890s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.891s] -- Configured cppcheck include dirs: $<BUILD_INTERFACE:/home/xn/unitree_go2_ws/src/base/go2_driver/include>
+[0.891s] -- Configured cppcheck exclude dirs and/or files: 
+[0.892s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[0.892s] -- Configured cpplint exclude dirs and/or files: 
+[0.893s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.894s] -- Added test 'lint_cmake' to check CMake code style
+[0.894s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[0.896s] -- Added test 'uncrustify' to check C / C++ code style
+[0.896s] -- Configured uncrustify additional arguments: 
+[0.896s] -- Added test 'xmllint' to check XML markup files
+[0.900s] -- Configuring done
+[0.920s] -- Generating done
+[0.922s] -- Build files have been written to: /home/xn/unitree_go2_ws/build/go2_driver
+[0.944s] [35m[1mScanning dependencies of target driver[0m
+[1.078s] [ 50%] [32mBuilding CXX object CMakeFiles/driver.dir/src/driver.cpp.o[0m
+[2.652s] [100%] [32m[1mLinking CXX executable driver[0m
+[2.796s] [100%] Built target driver
+[2.805s] Invoked command in '/home/xn/unitree_go2_ws/build/go2_driver' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/xn/unitree_go2_ws/build/go2_driver -- -j8 -l8
+[2.811s] Invoking command in '/home/xn/unitree_go2_ws/build/go2_driver': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/xn/unitree_go2_ws/build/go2_driver
+[2.819s] -- Install configuration: ""
+[2.820s] -- Installing: /home/xn/unitree_go2_ws/install/go2_driver/lib/go2_driver/driver
+[2.820s] -- Set runtime path of "/home/xn/unitree_go2_ws/install/go2_driver/lib/go2_driver/driver" to ""
+[2.821s] -- Installing: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/launch
+[2.821s] -- Installing: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/launch/driver.launch.py
+[2.821s] -- Installing: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/params
+[2.821s] -- Installing: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/rviz
+[2.821s] -- Installing: /home/xn/unitree_go2_ws/install/go2_driver/share/ament_index/resource_index/package_run_dependencies/go2_driver
+[2.822s] -- Installing: /home/xn/unitree_go2_ws/install/go2_driver/share/ament_index/resource_index/parent_prefix_path/go2_driver
+[2.822s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/environment/ament_prefix_path.sh
+[2.822s] -- Installing: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/environment/ament_prefix_path.dsv
+[2.822s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/environment/path.sh
+[2.822s] -- Installing: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/environment/path.dsv
+[2.823s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/local_setup.bash
+[2.823s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/local_setup.sh
+[2.823s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/local_setup.zsh
+[2.823s] -- Installing: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/local_setup.dsv
+[2.823s] -- Installing: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/package.dsv
+[2.823s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/ament_index/resource_index/packages/go2_driver
+[2.823s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/cmake/go2_driverConfig.cmake
+[2.823s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/cmake/go2_driverConfig-version.cmake
+[2.823s] -- Installing: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/package.xml
+[2.826s] Invoked command in '/home/xn/unitree_go2_ws/build/go2_driver' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/xn/unitree_go2_ws/build/go2_driver

@@ -1,0 +1,32 @@
+-- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Found rclcpp: 2.4.3 (/opt/ros/foxy/share/rclcpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+-- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+-- Found unitree_go: 0.0.0 (/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_go/share/unitree_go/cmake)
+-- Found unitree_api: 0.0.0 (/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_api/share/unitree_api/cmake)
+-- Found go2_twist_bridge: 0.0.0 (/home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/cmake)
+CMake Error at CMakeLists.txt:24 (find_package):
+  By not providing "Findbase.cmake" in CMAKE_MODULE_PATH this project has
+  asked CMake to find a package configuration file provided by "base", but
+  CMake did not find one.
+
+  Could not find a package configuration file provided by "base" with any of
+  the following names:
+
+    baseConfig.cmake
+    base-config.cmake
+
+  Add the installation prefix of "base" to CMAKE_PREFIX_PATH or set
+  "base_DIR" to a directory containing one of the above files.  If "base"
+  provides a separate development package or SDK, be sure it has been
+  installed.
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/xn/unitree_go2_ws/build/go2_tutorial/CMakeFiles/CMakeOutput.log".
+See also "/home/xn/unitree_go2_ws/build/go2_tutorial/CMakeFiles/CMakeError.log".
+make: *** [Makefile:266：cmake_check_build_system] 错误 1

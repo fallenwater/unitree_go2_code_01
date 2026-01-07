@@ -1,0 +1,30 @@
+[0.154s] Invoking command in '/home/xn/unitree_go2_ws/build/go2_twist_bridge': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/xn/unitree_go2_ws/install/my_test_py:/home/xn/unitree_go2_ws/install/helloworld_py:/home/xn/unitree_go2_ws/install/go2_twist_bridge_py:/home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard:/home/xn/unitree_go2_ws/src/base/install/go2_twist_bridge_py:/home/xn/unitree_go2_ws/src/base/install/go2_teleop_ctrl_keyboard:/opt/ros/foxy /usr/bin/cmake --build /home/xn/unitree_go2_ws/build/go2_twist_bridge -- -j4 -l4
+[0.314s] [35m[1mScanning dependencies of target twist_bridge[0m
+[0.314s] [ 50%] [32mBuilding CXX object CMakeFiles/twist_bridge.dir/src/twist_bridge.cpp.o[0m
+[1.472s] [01m[K/home/xn/unitree_go2_ws/src/base/go2_twist_bridge/src/twist_bridge.cpp:[m[K In member function ‘[01m[Kvoid TwistBridge::twist_cb(geometry_msgs::msg::Twist_<std::allocator<void> >::SharedPtr)[m[K’:
+[1.472s] [01m[K/home/xn/unitree_go2_ws/src/base/go2_twist_bridge/src/twist_bridge.cpp:38:66:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Ktwist[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[1.472s]    38 |         void twist_cb([01;35m[Kconst geometry_msgs::msg::Twist::SharedPtr twist[m[K){
+[1.472s]       |                       [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~[m[K
+[4.300s] [100%] [32m[1mLinking CXX executable twist_bridge[0m
+[4.459s] [100%] Built target twist_bridge
+[4.477s] Invoked command in '/home/xn/unitree_go2_ws/build/go2_twist_bridge' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/xn/unitree_go2_ws/install/my_test_py:/home/xn/unitree_go2_ws/install/helloworld_py:/home/xn/unitree_go2_ws/install/go2_twist_bridge_py:/home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard:/home/xn/unitree_go2_ws/src/base/install/go2_twist_bridge_py:/home/xn/unitree_go2_ws/src/base/install/go2_teleop_ctrl_keyboard:/opt/ros/foxy /usr/bin/cmake --build /home/xn/unitree_go2_ws/build/go2_twist_bridge -- -j4 -l4
+[4.479s] Invoking command in '/home/xn/unitree_go2_ws/build/go2_twist_bridge': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/xn/unitree_go2_ws/install/my_test_py:/home/xn/unitree_go2_ws/install/helloworld_py:/home/xn/unitree_go2_ws/install/go2_twist_bridge_py:/home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard:/home/xn/unitree_go2_ws/src/base/install/go2_twist_bridge_py:/home/xn/unitree_go2_ws/src/base/install/go2_teleop_ctrl_keyboard:/opt/ros/foxy /usr/bin/cmake --install /home/xn/unitree_go2_ws/build/go2_twist_bridge
+[4.488s] -- Install configuration: ""
+[4.488s] -- Installing: /home/xn/unitree_go2_ws/install/go2_twist_bridge/lib/go2_twist_bridge/twist_bridge
+[4.489s] -- Set runtime path of "/home/xn/unitree_go2_ws/install/go2_twist_bridge/lib/go2_twist_bridge/twist_bridge" to ""
+[4.489s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/ament_index/resource_index/package_run_dependencies/go2_twist_bridge
+[4.489s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/ament_index/resource_index/parent_prefix_path/go2_twist_bridge
+[4.489s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/environment/ament_prefix_path.sh
+[4.489s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/environment/ament_prefix_path.dsv
+[4.490s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/environment/path.sh
+[4.490s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/environment/path.dsv
+[4.490s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/local_setup.bash
+[4.490s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/local_setup.sh
+[4.490s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/local_setup.zsh
+[4.490s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/local_setup.dsv
+[4.490s] -- Installing: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/package.dsv
+[4.490s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/ament_index/resource_index/packages/go2_twist_bridge
+[4.490s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/cmake/go2_twist_bridgeConfig.cmake
+[4.490s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/cmake/go2_twist_bridgeConfig-version.cmake
+[4.491s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/package.xml
+[4.497s] Invoked command in '/home/xn/unitree_go2_ws/build/go2_twist_bridge' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/xn/unitree_go2_ws/install/my_test_py:/home/xn/unitree_go2_ws/install/helloworld_py:/home/xn/unitree_go2_ws/install/go2_twist_bridge_py:/home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard:/home/xn/unitree_go2_ws/src/base/install/go2_twist_bridge_py:/home/xn/unitree_go2_ws/src/base/install/go2_teleop_ctrl_keyboard:/opt/ros/foxy /usr/bin/cmake --install /home/xn/unitree_go2_ws/build/go2_twist_bridge

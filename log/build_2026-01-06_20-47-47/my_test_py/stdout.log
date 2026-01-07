@@ -1,0 +1,18 @@
+running develop
+running egg_info
+writing my_test_py.egg-info/PKG-INFO
+writing dependency_links to my_test_py.egg-info/dependency_links.txt
+writing entry points to my_test_py.egg-info/entry_points.txt
+writing requirements to my_test_py.egg-info/requires.txt
+writing top-level names to my_test_py.egg-info/top_level.txt
+reading manifest file 'my_test_py.egg-info/SOURCES.txt'
+writing manifest file 'my_test_py.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/xn/unitree_go2_ws/install/my_test_py/lib/python3.8/site-packages/site.py
+Creating /home/xn/unitree_go2_ws/install/my_test_py/lib/python3.8/site-packages/my-test-py.egg-link (link to .)
+Installing my_test_py script to /home/xn/unitree_go2_ws/install/my_test_py/lib/my_test_py
+
+Installed /home/xn/unitree_go2_ws/build/my_test_py
+running symlink_data
+symbolically linking /home/xn/unitree_go2_ws/build/my_test_py/resource/my_test_py -> /home/xn/unitree_go2_ws/install/my_test_py/share/ament_index/resource_index/packages
+symbolically linking /home/xn/unitree_go2_ws/build/my_test_py/package.xml -> /home/xn/unitree_go2_ws/install/my_test_py/share/my_test_py

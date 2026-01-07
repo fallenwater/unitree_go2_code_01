@@ -1,0 +1,26 @@
+[0.160s] Invoking command in '/home/xn/unitree_go2_ws/build/go2_twist_bridge': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/xn/unitree_go2_ws/install/my_test_py:/home/xn/unitree_go2_ws/install/helloworld_py:/home/xn/unitree_go2_ws/install/go2_twist_bridge_py:/home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard:/home/xn/unitree_go2_ws/src/base/install/go2_twist_bridge_py:/home/xn/unitree_go2_ws/src/base/install/go2_teleop_ctrl_keyboard:/opt/ros/foxy /usr/bin/cmake --build /home/xn/unitree_go2_ws/build/go2_twist_bridge -- -j4 -l4
+[0.341s] [35m[1mScanning dependencies of target twist_bridge[0m
+[0.342s] [ 50%] [32mBuilding CXX object CMakeFiles/twist_bridge.dir/src/twist_bridge.cpp.o[0m
+[4.875s] [100%] [32m[1mLinking CXX executable twist_bridge[0m
+[5.046s] [100%] Built target twist_bridge
+[5.060s] Invoked command in '/home/xn/unitree_go2_ws/build/go2_twist_bridge' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/xn/unitree_go2_ws/install/my_test_py:/home/xn/unitree_go2_ws/install/helloworld_py:/home/xn/unitree_go2_ws/install/go2_twist_bridge_py:/home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard:/home/xn/unitree_go2_ws/src/base/install/go2_twist_bridge_py:/home/xn/unitree_go2_ws/src/base/install/go2_teleop_ctrl_keyboard:/opt/ros/foxy /usr/bin/cmake --build /home/xn/unitree_go2_ws/build/go2_twist_bridge -- -j4 -l4
+[5.061s] Invoking command in '/home/xn/unitree_go2_ws/build/go2_twist_bridge': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/xn/unitree_go2_ws/install/my_test_py:/home/xn/unitree_go2_ws/install/helloworld_py:/home/xn/unitree_go2_ws/install/go2_twist_bridge_py:/home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard:/home/xn/unitree_go2_ws/src/base/install/go2_twist_bridge_py:/home/xn/unitree_go2_ws/src/base/install/go2_teleop_ctrl_keyboard:/opt/ros/foxy /usr/bin/cmake --install /home/xn/unitree_go2_ws/build/go2_twist_bridge
+[5.067s] -- Install configuration: ""
+[5.067s] -- Installing: /home/xn/unitree_go2_ws/install/go2_twist_bridge/lib/go2_twist_bridge/twist_bridge
+[5.069s] -- Set runtime path of "/home/xn/unitree_go2_ws/install/go2_twist_bridge/lib/go2_twist_bridge/twist_bridge" to ""
+[5.069s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/ament_index/resource_index/package_run_dependencies/go2_twist_bridge
+[5.070s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/ament_index/resource_index/parent_prefix_path/go2_twist_bridge
+[5.070s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/environment/ament_prefix_path.sh
+[5.070s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/environment/ament_prefix_path.dsv
+[5.070s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/environment/path.sh
+[5.070s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/environment/path.dsv
+[5.070s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/local_setup.bash
+[5.070s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/local_setup.sh
+[5.070s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/local_setup.zsh
+[5.070s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/local_setup.dsv
+[5.070s] -- Installing: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/package.dsv
+[5.070s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/ament_index/resource_index/packages/go2_twist_bridge
+[5.070s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/cmake/go2_twist_bridgeConfig.cmake
+[5.070s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/cmake/go2_twist_bridgeConfig-version.cmake
+[5.070s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/package.xml
+[5.072s] Invoked command in '/home/xn/unitree_go2_ws/build/go2_twist_bridge' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/xn/unitree_go2_ws/install/my_test_py:/home/xn/unitree_go2_ws/install/helloworld_py:/home/xn/unitree_go2_ws/install/go2_twist_bridge_py:/home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard:/home/xn/unitree_go2_ws/src/base/install/go2_twist_bridge_py:/home/xn/unitree_go2_ws/src/base/install/go2_teleop_ctrl_keyboard:/opt/ros/foxy /usr/bin/cmake --install /home/xn/unitree_go2_ws/build/go2_twist_bridge

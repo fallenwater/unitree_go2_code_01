@@ -1,0 +1,108 @@
+-- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Found rclcpp: 2.4.3 (/opt/ros/foxy/share/rclcpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+-- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+-- Found unitree_go: 0.0.0 (/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_go/share/unitree_go/cmake)
+-- Found unitree_api: 0.0.0 (/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_api/share/unitree_api/cmake)
+-- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'cppcheck' to perform static code analysis on C / C++ code
+-- Configured cppcheck include dirs: $<BUILD_INTERFACE:/home/xn/unitree_go2_ws/src/tutorial/go2_tutorial/include>
+-- Configured cppcheck exclude dirs and/or files: 
+-- Added test 'cpplint' to check C / C++ code against the Google style
+-- Configured cpplint exclude dirs and/or files: 
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+-- Added test 'uncrustify' to check C / C++ code style
+-- Configured uncrustify additional arguments: 
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/xn/unitree_go2_ws/build/go2_tutorial
+[ 50%] [32mBuilding CXX object CMakeFiles/go2_ctrl.dir/src/go2_ctrl.cpp.o[0m
+[100%] [32m[1mLinking CXX executable go2_ctrl[0m
+[100%] Built target go2_ctrl
+-- Install configuration: ""
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/lib/go2_tutorial/go2_ctrl
+-- Set runtime path of "/home/xn/unitree_go2_ws/install/go2_tutorial/lib/go2_tutorial/go2_ctrl" to ""
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/go2_tutorial
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/json.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/json_fwd.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/thirdparty
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/thirdparty/hedley
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/thirdparty/hedley/hedley_undef.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/thirdparty/hedley/hedley.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/ordered_map.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/adl_serializer.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/json_pointer.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/input
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/input/input_adapters.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/input/position_t.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/input/lexer.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/input/binary_reader.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/input/parser.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/input/json_sax.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/hash.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/conversions
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/conversions/from_json.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/conversions/to_chars.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/conversions/to_json.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/abi_macros.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/value_t.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/macro_unscope.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/output
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/output/binary_writer.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/output/serializer.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/output/output_adapters.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/string_escape.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/json_ref.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/meta
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/meta/std_fs.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/meta/call_std
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/meta/call_std/end.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/meta/call_std/begin.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/meta/void_t.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/meta/detected.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/meta/type_traits.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/meta/identity_tag.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/meta/is_sax.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/meta/cpp_future.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/macro_scope.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/json_custom_base_class.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/iterators
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/iterators/iter_impl.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/iterators/primitive_iterator.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/iterators/iterator_traits.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/iterators/json_reverse_iterator.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/iterators/internal_iterator.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/iterators/iteration_proxy.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/exceptions.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/string_concat.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/byte_container_with_subtype.hpp
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/include/sport_model.hpp
+-- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/launch
+-- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/launch/go2_ctrl.launch.py
+-- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/params
+-- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/share/ament_index/resource_index/package_run_dependencies/go2_tutorial
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/share/ament_index/resource_index/parent_prefix_path/go2_tutorial
+-- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/environment/ament_prefix_path.sh
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/environment/path.sh
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/environment/path.dsv
+-- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/local_setup.bash
+-- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/local_setup.sh
+-- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/local_setup.zsh
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/local_setup.dsv
+-- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/package.dsv
+-- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/share/ament_index/resource_index/packages/go2_tutorial
+-- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/cmake/go2_tutorialConfig.cmake
+-- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/cmake/go2_tutorialConfig-version.cmake
+-- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/package.xml

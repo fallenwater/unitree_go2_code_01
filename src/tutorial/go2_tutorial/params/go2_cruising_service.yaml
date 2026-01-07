@@ -1,0 +1,9 @@
+/**:
+  ros__parameters:
+    x: 0.3
+    y: 0.0
+    z: 0.8
+    use_sim_time: false
+
+# 可通过以下命令，在程序运行时保存当前参数，将参数数据保存在该文件，即可在launch文件中读取参数并导入为程序的默认参数
+# ros2 param dukp <node指定节点>

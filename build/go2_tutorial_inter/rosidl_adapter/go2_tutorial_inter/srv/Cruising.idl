@@ -1,0 +1,20 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from go2_tutorial_inter/srv/Cruising.srv
+// generated code does not contain a copyright notice
+
+#include "geometry_msgs/msg/Point.idl"
+
+module go2_tutorial_inter {
+  module srv {
+    @verbatim (language="comment", text=
+      " 请求数据")
+    struct Cruising_Request {
+      int32 flag;
+    };
+    @verbatim (language="comment", text=
+      " 相应结果")
+    struct Cruising_Response {
+      geometry_msgs::msg::Point point;
+    };
+  };
+};

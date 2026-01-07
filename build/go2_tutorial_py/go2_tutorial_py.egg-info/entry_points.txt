@@ -1,0 +1,6 @@
+[console_scripts]
+go2_cruising_client = go2_tutorial_py.go2_cruising_client:main
+go2_cruising_service = go2_tutorial_py.go2_cruising_service:main
+go2_ctrl = go2_tutorial_py.go2_ctrl:main
+go2_state = go2_tutorial_py.go2_state:main
+

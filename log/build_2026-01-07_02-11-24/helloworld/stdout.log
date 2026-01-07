@@ -1,0 +1,19 @@
+[100%] Built target hello
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/xn/unitree_go2_ws/install/helloworld/lib/helloworld/hello
+-- Up-to-date symlink: /home/xn/unitree_go2_ws/install/helloworld/share/ament_index/resource_index/package_run_dependencies/helloworld
+-- Up-to-date symlink: /home/xn/unitree_go2_ws/install/helloworld/share/ament_index/resource_index/parent_prefix_path/helloworld
+-- Up-to-date symlink: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/environment/path.sh
+-- Up-to-date symlink: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/environment/path.dsv
+-- Up-to-date symlink: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/local_setup.bash
+-- Up-to-date symlink: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/local_setup.sh
+-- Up-to-date symlink: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/local_setup.zsh
+-- Up-to-date symlink: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/local_setup.dsv
+-- Symlinking: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/package.dsv
+-- Up-to-date symlink: /home/xn/unitree_go2_ws/install/helloworld/share/ament_index/resource_index/packages/helloworld
+-- Up-to-date symlink: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/cmake/helloworldConfig.cmake
+-- Up-to-date symlink: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/cmake/helloworldConfig-version.cmake
+-- Up-to-date symlink: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/package.xml

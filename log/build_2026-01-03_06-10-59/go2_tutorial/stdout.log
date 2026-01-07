@@ -1,0 +1,5 @@
+[35m[1mScanning dependencies of target go2_cruising_service[0m
+[ 12%] [32mBuilding CXX object CMakeFiles/go2_cruising_service.dir/src/go2_cruising_service.cpp.o[0m
+[ 37%] Built target go2_cruising_client
+[ 62%] Built target go2_ctrl
+[ 87%] Built target go2_state

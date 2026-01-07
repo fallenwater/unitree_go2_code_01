@@ -1,0 +1,27 @@
+[0.510s] Invoking command in '/home/xn/unitree_go2_ws/build/go2_twist_bridge': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/xn/unitree_go2_ws/install/my_test_py:/home/xn/unitree_go2_ws/install/helloworld_py:/home/xn/unitree_go2_ws/install/go2_twist_bridge_py:/home/xn/unitree_go2_ws/install/go2_tutorial_py:/home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard:/home/xn/unitree_go2_ws/install/go2_driver_py:/opt/ros/foxy /usr/bin/cmake --build /home/xn/unitree_go2_ws/build/go2_twist_bridge -- -j8 -l8
+[0.665s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.665s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.666s] -- Found rclcpp: 2.4.3 (/opt/ros/foxy/share/rclcpp/cmake)
+[0.688s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.693s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[0.783s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.814s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[0.815s] -- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+[0.905s] -- Found geometry_msgs: 2.0.5 (/opt/ros/foxy/share/geometry_msgs/cmake)
+[0.925s] -- Found unitree_api: 0.0.0 (/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_api/share/unitree_api/cmake)
+[0.963s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[1.008s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.009s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.009s] -- Configured cppcheck include dirs: $<BUILD_INTERFACE:/home/xn/unitree_go2_ws/src/base/go2_twist_bridge/include>
+[1.009s] -- Configured cppcheck exclude dirs and/or files: 
+[1.010s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[1.010s] -- Configured cpplint exclude dirs and/or files: 
+[1.011s] -- Added test 'lint_cmake' to check CMake code style
+[1.012s] -- Added test 'uncrustify' to check C / C++ code style
+[1.012s] -- Configured uncrustify additional arguments: 
+[1.013s] -- Added test 'xmllint' to check XML markup files
+[1.020s] -- Configuring done
+[1.027s] CMake Error: INSTALL(EXPORT) given unknown export "go2_twist_bridge"
+[1.028s] -- Generating done
+[1.029s] CMake Generate step failed.  Build files cannot be regenerated correctly.
+[1.034s] make: *** [Makefile:266：cmake_check_build_system] 错误 1

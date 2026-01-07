@@ -1,0 +1,4 @@
+source;share/go2_tutorial_inter/environment/ament_prefix_path.sh
+source;share/go2_tutorial_inter/environment/library_path.sh
+source;share/go2_tutorial_inter/environment/path.sh
+source;share/go2_tutorial_inter/environment/pythonpath.sh

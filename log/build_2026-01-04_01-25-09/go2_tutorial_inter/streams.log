@@ -1,0 +1,122 @@
+[0.098s] Invoking command in '/home/xn/unitree_go2_ws/build/go2_tutorial_inter': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/xn/unitree_go2_ws/build/go2_tutorial_inter -- -j8 -l8
+[0.826s] [  9%] Built target go2_tutorial_inter__rosidl_generator_c
+[0.827s] [ 12%] Built target go2_tutorial_inter__cpp
+[0.827s] [ 22%] Built target go2_tutorial_inter__rosidl_typesupport_introspection_c
+[0.827s] [ 32%] Built target go2_tutorial_inter__rosidl_typesupport_c
+[0.827s] [ 41%] Built target go2_tutorial_inter__rosidl_typesupport_fastrtps_cpp
+[0.827s] [ 51%] Built target go2_tutorial_inter__rosidl_typesupport_introspection_cpp
+[0.827s] [ 61%] Built target go2_tutorial_inter__rosidl_typesupport_cpp
+[0.827s] [ 70%] Built target go2_tutorial_inter__rosidl_typesupport_fastrtps_c
+[0.827s] [ 70%] Built target go2_tutorial_inter
+[0.827s] [ 74%] Built target go2_tutorial_inter__py
+[0.827s] [ 80%] Built target go2_tutorial_inter__python
+[0.827s] [ 87%] Built target go2_tutorial_inter__rosidl_typesupport_introspection_c__pyext
+[0.828s] [ 93%] Built target go2_tutorial_inter__rosidl_typesupport_fastrtps_c__pyext
+[0.828s] [100%] Built target go2_tutorial_inter__rosidl_typesupport_c__pyext
+[0.834s] Invoked command in '/home/xn/unitree_go2_ws/build/go2_tutorial_inter' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/xn/unitree_go2_ws/build/go2_tutorial_inter -- -j8 -l8
+[0.848s] Invoking command in '/home/xn/unitree_go2_ws/build/go2_tutorial_inter': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/xn/unitree_go2_ws/build/go2_tutorial_inter
+[0.868s] -- Install configuration: ""
+[0.869s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/share/ament_index/resource_index/rosidl_interfaces/go2_tutorial_inter
+[0.869s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter
+[0.869s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter/msg
+[0.870s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter/msg/rosidl_generator_c__visibility_control.h
+[0.871s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter/srv
+[0.871s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter/srv/detail
+[0.871s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter/srv/detail/cruising__functions.c
+[0.871s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter/srv/detail/cruising__type_support.h
+[0.871s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter/srv/detail/cruising__struct.h
+[0.871s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter/srv/detail/cruising__functions.h
+[0.871s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter/srv/cruising.h
+[0.871s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/share/go2_tutorial_inter/environment/library_path.sh
+[0.871s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/share/go2_tutorial_inter/environment/library_path.dsv
+[0.871s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/lib/libgo2_tutorial_inter__rosidl_generator_c.so
+[0.871s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter
+[0.871s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter/msg
+[0.872s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[0.872s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter/srv
+[0.872s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter/srv/detail
+[0.872s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter/srv/detail/cruising__rosidl_typesupport_fastrtps_c.h
+[0.873s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/lib/libgo2_tutorial_inter__rosidl_typesupport_fastrtps_c.so
+[0.873s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter
+[0.873s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter/msg
+[0.874s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[0.874s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter/srv
+[0.874s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter/srv/detail
+[0.874s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter/srv/detail/cruising__rosidl_typesupport_fastrtps_cpp.hpp
+[0.874s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter/srv/detail/dds_fastrtps
+[0.874s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/lib/libgo2_tutorial_inter__rosidl_typesupport_fastrtps_cpp.so
+[0.874s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter
+[0.874s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter/msg
+[0.874s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[0.874s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter/srv
+[0.874s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter/srv/detail
+[0.874s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter/srv/detail/cruising__type_support.c
+[0.874s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter/srv/detail/cruising__rosidl_typesupport_introspection_c.h
+[0.874s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/lib/libgo2_tutorial_inter__rosidl_typesupport_introspection_c.so
+[0.874s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/lib/libgo2_tutorial_inter__rosidl_typesupport_c.so
+[0.874s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter
+[0.877s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter/msg
+[0.877s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter/msg/rosidl_generator_cpp__visibility_control.hpp
+[0.877s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter/srv
+[0.878s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter/srv/cruising.hpp
+[0.878s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter/srv/detail
+[0.878s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter/srv/detail/cruising__type_support.hpp
+[0.878s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter/srv/detail/cruising__builder.hpp
+[0.878s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter/srv/detail/cruising__struct.hpp
+[0.878s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter/srv/detail/cruising__traits.hpp
+[0.878s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter
+[0.878s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter/srv
+[0.878s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter/srv/detail
+[0.878s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter/srv/detail/cruising__type_support.cpp
+[0.878s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/include/go2_tutorial_inter/srv/detail/cruising__rosidl_typesupport_introspection_cpp.hpp
+[0.879s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/lib/libgo2_tutorial_inter__rosidl_typesupport_introspection_cpp.so
+[0.879s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/lib/libgo2_tutorial_inter__rosidl_typesupport_cpp.so
+[0.879s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/share/go2_tutorial_inter/environment/pythonpath.sh
+[0.879s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/share/go2_tutorial_inter/environment/pythonpath.dsv
+[0.879s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/lib/python3.8/site-packages/go2_tutorial_inter/__init__.py
+[0.908s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/lib/python3.8/site-packages/go2_tutorial_inter/srv
+[0.911s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/lib/python3.8/site-packages/go2_tutorial_inter/srv/__init__.py
+[0.911s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/lib/python3.8/site-packages/go2_tutorial_inter/srv/_cruising.py
+[0.911s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/lib/python3.8/site-packages/go2_tutorial_inter/srv/_cruising_s.c
+[0.911s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/lib/python3.8/site-packages/go2_tutorial_inter/go2_tutorial_inter_s__rosidl_typesupport_fastrtps_c.cpython-38-x86_64-linux-gnu.so
+[0.911s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/lib/python3.8/site-packages/go2_tutorial_inter/go2_tutorial_inter_s__rosidl_typesupport_introspection_c.cpython-38-x86_64-linux-gnu.so
+[0.911s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/lib/python3.8/site-packages/go2_tutorial_inter/go2_tutorial_inter_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so
+[0.913s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/lib/libgo2_tutorial_inter__python.so
+[0.914s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/share/go2_tutorial_inter/srv/Cruising.idl
+[0.914s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/share/go2_tutorial_inter/srv/Cruising.srv
+[0.914s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/share/go2_tutorial_inter/srv/Cruising_Request.msg
+[0.914s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/share/go2_tutorial_inter/srv/Cruising_Response.msg
+[0.914s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/share/ament_index/resource_index/package_run_dependencies/go2_tutorial_inter
+[0.918s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/share/ament_index/resource_index/parent_prefix_path/go2_tutorial_inter
+[0.918s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/share/go2_tutorial_inter/environment/ament_prefix_path.sh
+[0.918s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/share/go2_tutorial_inter/environment/ament_prefix_path.dsv
+[0.918s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/share/go2_tutorial_inter/environment/path.sh
+[0.918s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/share/go2_tutorial_inter/environment/path.dsv
+[0.918s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/share/go2_tutorial_inter/local_setup.bash
+[0.918s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/share/go2_tutorial_inter/local_setup.sh
+[0.918s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/share/go2_tutorial_inter/local_setup.zsh
+[0.919s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/share/go2_tutorial_inter/local_setup.dsv
+[0.919s] -- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/share/go2_tutorial_inter/package.dsv
+[0.919s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/share/ament_index/resource_index/packages/go2_tutorial_inter
+[0.921s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/share/go2_tutorial_inter/cmake/go2_tutorial_inter__rosidl_generator_cExport.cmake
+[0.922s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/share/go2_tutorial_inter/cmake/go2_tutorial_inter__rosidl_generator_cExport-noconfig.cmake
+[0.922s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/share/go2_tutorial_inter/cmake/go2_tutorial_inter__rosidl_typesupport_introspection_cExport.cmake
+[0.922s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/share/go2_tutorial_inter/cmake/go2_tutorial_inter__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[0.937s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/share/go2_tutorial_inter/cmake/go2_tutorial_inter__rosidl_typesupport_cExport.cmake
+[0.940s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/share/go2_tutorial_inter/cmake/go2_tutorial_inter__rosidl_typesupport_cExport-noconfig.cmake
+[0.940s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/share/go2_tutorial_inter/cmake/go2_tutorial_inter__rosidl_generator_cppExport.cmake
+[0.940s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/share/go2_tutorial_inter/cmake/go2_tutorial_inter__rosidl_typesupport_introspection_cppExport.cmake
+[0.940s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/share/go2_tutorial_inter/cmake/go2_tutorial_inter__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[0.941s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/share/go2_tutorial_inter/cmake/go2_tutorial_inter__rosidl_typesupport_cppExport.cmake
+[0.941s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/share/go2_tutorial_inter/cmake/go2_tutorial_inter__rosidl_typesupport_cppExport-noconfig.cmake
+[0.941s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/share/go2_tutorial_inter/cmake/rosidl_cmake-extras.cmake
+[0.941s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/share/go2_tutorial_inter/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.941s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/share/go2_tutorial_inter/cmake/ament_cmake_export_libraries-extras.cmake
+[0.941s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/share/go2_tutorial_inter/cmake/ament_cmake_export_targets-extras.cmake
+[0.941s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/share/go2_tutorial_inter/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.941s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/share/go2_tutorial_inter/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[0.942s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/share/go2_tutorial_inter/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[0.942s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/share/go2_tutorial_inter/cmake/go2_tutorial_interConfig.cmake
+[0.942s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/share/go2_tutorial_inter/cmake/go2_tutorial_interConfig-version.cmake
+[0.942s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial_inter/share/go2_tutorial_inter/package.xml
+[1.041s] Invoked command in '/home/xn/unitree_go2_ws/build/go2_tutorial_inter' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/xn/unitree_go2_ws/build/go2_tutorial_inter

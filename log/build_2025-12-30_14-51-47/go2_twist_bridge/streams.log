@@ -1,0 +1,26 @@
+[0.545s] Invoking command in '/home/xn/unitree_go2_ws/build/go2_twist_bridge': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/xn/unitree_go2_ws/build/go2_twist_bridge -- -j8 -l8
+[0.589s] [35m[1mScanning dependencies of target twist_bridge[0m
+[0.624s] [ 50%] [32mBuilding CXX object CMakeFiles/twist_bridge.dir/src/twist_bridge.cpp.o[0m
+[6.527s] [100%] [32m[1mLinking CXX executable twist_bridge[0m
+[6.710s] [100%] Built target twist_bridge
+[6.721s] Invoked command in '/home/xn/unitree_go2_ws/build/go2_twist_bridge' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/xn/unitree_go2_ws/build/go2_twist_bridge -- -j8 -l8
+[6.728s] Invoking command in '/home/xn/unitree_go2_ws/build/go2_twist_bridge': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/xn/unitree_go2_ws/build/go2_twist_bridge
+[6.736s] -- Install configuration: ""
+[6.738s] -- Installing: /home/xn/unitree_go2_ws/install/go2_twist_bridge/lib/go2_twist_bridge/twist_bridge
+[6.740s] -- Set runtime path of "/home/xn/unitree_go2_ws/install/go2_twist_bridge/lib/go2_twist_bridge/twist_bridge" to ""
+[6.740s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/ament_index/resource_index/package_run_dependencies/go2_twist_bridge
+[6.740s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/ament_index/resource_index/parent_prefix_path/go2_twist_bridge
+[6.741s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/environment/ament_prefix_path.sh
+[6.741s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/environment/ament_prefix_path.dsv
+[6.741s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/environment/path.sh
+[6.741s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/environment/path.dsv
+[6.741s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/local_setup.bash
+[6.741s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/local_setup.sh
+[6.741s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/local_setup.zsh
+[6.741s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/local_setup.dsv
+[6.741s] -- Installing: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/package.dsv
+[6.742s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/ament_index/resource_index/packages/go2_twist_bridge
+[6.742s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/cmake/go2_twist_bridgeConfig.cmake
+[6.742s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/cmake/go2_twist_bridgeConfig-version.cmake
+[6.742s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/package.xml
+[6.744s] Invoked command in '/home/xn/unitree_go2_ws/build/go2_twist_bridge' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/xn/unitree_go2_ws/build/go2_twist_bridge

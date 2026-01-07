@@ -1,0 +1,24 @@
+[1.190s] Invoking command in '/home/xn/unitree_go2_ws/src/tutorial/go2_tutorial_py': PYTHONPATH=/home/xn/unitree_go2_ws/build/go2_tutorial_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/xn/unitree_go2_ws/install/go2_tutorial_py/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/go2_tutorial_py build --build-base /home/xn/unitree_go2_ws/build/go2_tutorial_py/build install --record /home/xn/unitree_go2_ws/build/go2_tutorial_py/install.log --install-scripts $base/lib/go2_tutorial_py --single-version-externally-managed install_data
+[1.369s] running egg_info
+[1.371s] writing ../../../build/go2_tutorial_py/go2_tutorial_py.egg-info/PKG-INFO
+[1.371s] writing dependency_links to ../../../build/go2_tutorial_py/go2_tutorial_py.egg-info/dependency_links.txt
+[1.371s] writing entry points to ../../../build/go2_tutorial_py/go2_tutorial_py.egg-info/entry_points.txt
+[1.371s] writing requirements to ../../../build/go2_tutorial_py/go2_tutorial_py.egg-info/requires.txt
+[1.371s] writing top-level names to ../../../build/go2_tutorial_py/go2_tutorial_py.egg-info/top_level.txt
+[1.398s] reading manifest file '../../../build/go2_tutorial_py/go2_tutorial_py.egg-info/SOURCES.txt'
+[1.399s] writing manifest file '../../../build/go2_tutorial_py/go2_tutorial_py.egg-info/SOURCES.txt'
+[1.399s] running build
+[1.399s] running build_py
+[1.400s] copying go2_tutorial_py/go2_ctrl.py -> /home/xn/unitree_go2_ws/build/go2_tutorial_py/build/lib/go2_tutorial_py
+[1.400s] running install
+[1.406s] running install_lib
+[1.408s] copying /home/xn/unitree_go2_ws/build/go2_tutorial_py/build/lib/go2_tutorial_py/go2_ctrl.py -> /home/xn/unitree_go2_ws/install/go2_tutorial_py/lib/python3.8/site-packages/go2_tutorial_py
+[1.408s] byte-compiling /home/xn/unitree_go2_ws/install/go2_tutorial_py/lib/python3.8/site-packages/go2_tutorial_py/go2_ctrl.py to go2_ctrl.cpython-38.pyc
+[1.408s] running install_data
+[1.409s] running install_egg_info
+[1.409s] removing '/home/xn/unitree_go2_ws/install/go2_tutorial_py/lib/python3.8/site-packages/go2_tutorial_py-0.0.0-py3.8.egg-info' (and everything under it)
+[1.409s] Copying ../../../build/go2_tutorial_py/go2_tutorial_py.egg-info to /home/xn/unitree_go2_ws/install/go2_tutorial_py/lib/python3.8/site-packages/go2_tutorial_py-0.0.0-py3.8.egg-info
+[1.415s] running install_scripts
+[1.422s] Installing go2_ctrl script to /home/xn/unitree_go2_ws/install/go2_tutorial_py/lib/go2_tutorial_py
+[1.423s] writing list of installed files to '/home/xn/unitree_go2_ws/build/go2_tutorial_py/install.log'
+[1.445s] Invoked command in '/home/xn/unitree_go2_ws/src/tutorial/go2_tutorial_py' returned '0': PYTHONPATH=/home/xn/unitree_go2_ws/build/go2_tutorial_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/xn/unitree_go2_ws/install/go2_tutorial_py/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/go2_tutorial_py build --build-base /home/xn/unitree_go2_ws/build/go2_tutorial_py/build install --record /home/xn/unitree_go2_ws/build/go2_tutorial_py/install.log --install-scripts $base/lib/go2_tutorial_py --single-version-externally-managed install_data

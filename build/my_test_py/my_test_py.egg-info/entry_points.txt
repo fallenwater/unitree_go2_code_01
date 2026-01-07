@@ -1,0 +1,3 @@
+[console_scripts]
+my_test_py = my_test_py.my_test_py:main
+

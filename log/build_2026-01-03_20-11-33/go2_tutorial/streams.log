@@ -1,0 +1,97 @@
+[0.983s] Invoking command in '/home/xn/unitree_go2_ws/build/go2_tutorial': AMENT_PREFIX_PATH=/home/xn/unitree_go2_ws/install/go2_tutorial_inter:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/xn/unitree_go2_ws/install/go2_tutorial_inter:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_hg:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_go:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_api:/home/xn/unitree_ros2/cyclonedds_ws/install/rmw_cyclonedds_cpp:/home/xn/unitree_ros2/cyclonedds_ws/install/cyclonedds:/opt/ros/foxy LD_LIBRARY_PATH=/home/xn/unitree_go2_ws/install/go2_tutorial_inter/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/xn/unitree_go2_ws/install/go2_tutorial_inter/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/xn/unitree_go2_ws/build/go2_tutorial -- -j8 -l8
+[1.216s] [35m[1mScanning dependencies of target go2_cruising_client[0m
+[1.289s] [ 25%] Built target go2_ctrl
+[1.325s] [ 50%] Built target go2_cruising_service
+[1.363s] [ 75%] Built target go2_state
+[1.367s] [ 87%] [32mBuilding CXX object CMakeFiles/go2_cruising_client.dir/src/go2_cruising_client.cpp.o[0m
+[4.568s] [100%] [32m[1mLinking CXX executable go2_cruising_client[0m
+[4.724s] [100%] Built target go2_cruising_client
+[4.734s] Invoked command in '/home/xn/unitree_go2_ws/build/go2_tutorial' returned '0': AMENT_PREFIX_PATH=/home/xn/unitree_go2_ws/install/go2_tutorial_inter:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/xn/unitree_go2_ws/install/go2_tutorial_inter:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_hg:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_go:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_api:/home/xn/unitree_ros2/cyclonedds_ws/install/rmw_cyclonedds_cpp:/home/xn/unitree_ros2/cyclonedds_ws/install/cyclonedds:/opt/ros/foxy LD_LIBRARY_PATH=/home/xn/unitree_go2_ws/install/go2_tutorial_inter/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/xn/unitree_go2_ws/install/go2_tutorial_inter/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/xn/unitree_go2_ws/build/go2_tutorial -- -j8 -l8
+[4.741s] Invoking command in '/home/xn/unitree_go2_ws/build/go2_tutorial': AMENT_PREFIX_PATH=/home/xn/unitree_go2_ws/install/go2_tutorial_inter:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/xn/unitree_go2_ws/install/go2_tutorial_inter:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_hg:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_go:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_api:/home/xn/unitree_ros2/cyclonedds_ws/install/rmw_cyclonedds_cpp:/home/xn/unitree_ros2/cyclonedds_ws/install/cyclonedds:/opt/ros/foxy LD_LIBRARY_PATH=/home/xn/unitree_go2_ws/install/go2_tutorial_inter/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/xn/unitree_go2_ws/install/go2_tutorial_inter/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/xn/unitree_go2_ws/build/go2_tutorial
+[4.753s] -- Install configuration: ""
+[4.755s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/lib/go2_tutorial/go2_ctrl
+[4.757s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/lib/go2_tutorial/go2_state
+[4.758s] -- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/lib/go2_tutorial/go2_cruising_client
+[4.758s] -- Set runtime path of "/home/xn/unitree_go2_ws/install/go2_tutorial/lib/go2_tutorial/go2_cruising_client" to ""
+[4.759s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/lib/go2_tutorial/go2_cruising_service
+[4.759s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include
+[4.759s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/go2_tutorial
+[4.760s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann
+[4.760s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/json.hpp
+[4.760s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/json_fwd.hpp
+[4.760s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/thirdparty
+[4.760s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/thirdparty/hedley
+[4.760s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/thirdparty/hedley/hedley_undef.hpp
+[4.760s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/thirdparty/hedley/hedley.hpp
+[4.760s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/ordered_map.hpp
+[4.760s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/adl_serializer.hpp
+[4.760s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail
+[4.761s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/json_pointer.hpp
+[4.761s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/input
+[4.761s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/input/input_adapters.hpp
+[4.761s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/input/position_t.hpp
+[4.761s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/input/lexer.hpp
+[4.761s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/input/binary_reader.hpp
+[4.761s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/input/parser.hpp
+[4.761s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/input/json_sax.hpp
+[4.761s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/hash.hpp
+[4.761s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/conversions
+[4.762s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/conversions/from_json.hpp
+[4.762s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/conversions/to_chars.hpp
+[4.762s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/conversions/to_json.hpp
+[4.762s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/abi_macros.hpp
+[4.762s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/value_t.hpp
+[4.762s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/macro_unscope.hpp
+[4.762s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/output
+[4.762s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/output/binary_writer.hpp
+[4.762s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/output/serializer.hpp
+[4.762s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/output/output_adapters.hpp
+[4.762s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/string_escape.hpp
+[4.762s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/json_ref.hpp
+[4.762s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/meta
+[4.762s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/meta/std_fs.hpp
+[4.762s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/meta/call_std
+[4.762s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/meta/call_std/end.hpp
+[4.762s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/meta/call_std/begin.hpp
+[4.762s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/meta/void_t.hpp
+[4.762s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/meta/detected.hpp
+[4.763s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/meta/type_traits.hpp
+[4.763s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/meta/identity_tag.hpp
+[4.763s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/meta/is_sax.hpp
+[4.763s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/meta/cpp_future.hpp
+[4.763s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/macro_scope.hpp
+[4.763s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/json_custom_base_class.hpp
+[4.763s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/iterators
+[4.763s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/iterators/iter_impl.hpp
+[4.763s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/iterators/primitive_iterator.hpp
+[4.763s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/iterators/iterator_traits.hpp
+[4.763s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/iterators/json_reverse_iterator.hpp
+[4.764s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/iterators/internal_iterator.hpp
+[4.764s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/iterators/iteration_proxy.hpp
+[4.764s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/exceptions.hpp
+[4.764s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/string_concat.hpp
+[4.764s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/byte_container_with_subtype.hpp
+[4.764s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/include/sport_model.hpp
+[4.764s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/launch
+[4.764s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/launch/go2_state.launch.py
+[4.765s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/launch/go2_ctrl.launch.py
+[4.765s] -- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/launch/go2_cruising.launch.py
+[4.765s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/params
+[4.765s] -- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/params/go2_cruising_service.yaml
+[4.765s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/params/go2_state.yaml
+[4.765s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/share/ament_index/resource_index/package_run_dependencies/go2_tutorial
+[4.766s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/share/ament_index/resource_index/parent_prefix_path/go2_tutorial
+[4.766s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/environment/ament_prefix_path.sh
+[4.766s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/environment/ament_prefix_path.dsv
+[4.766s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/environment/path.sh
+[4.766s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/environment/path.dsv
+[4.766s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/local_setup.bash
+[4.767s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/local_setup.sh
+[4.767s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/local_setup.zsh
+[4.767s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/local_setup.dsv
+[4.768s] -- Installing: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/package.dsv
+[4.768s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/share/ament_index/resource_index/packages/go2_tutorial
+[4.768s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/cmake/go2_tutorialConfig.cmake
+[4.768s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/cmake/go2_tutorialConfig-version.cmake
+[4.768s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/package.xml
+[4.768s] Invoked command in '/home/xn/unitree_go2_ws/build/go2_tutorial' returned '0': AMENT_PREFIX_PATH=/home/xn/unitree_go2_ws/install/go2_tutorial_inter:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/xn/unitree_go2_ws/install/go2_tutorial_inter:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_hg:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_go:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_api:/home/xn/unitree_ros2/cyclonedds_ws/install/rmw_cyclonedds_cpp:/home/xn/unitree_ros2/cyclonedds_ws/install/cyclonedds:/opt/ros/foxy LD_LIBRARY_PATH=/home/xn/unitree_go2_ws/install/go2_tutorial_inter/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/xn/unitree_go2_ws/install/go2_tutorial_inter/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/xn/unitree_go2_ws/build/go2_tutorial

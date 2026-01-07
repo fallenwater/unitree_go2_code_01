@@ -1,0 +1,10 @@
+[100%] Built target go2_ctrl
+CMake Error at cmake_install.cmake:41 (file):
+  file INSTALL cannot find
+  "/home/xn/unitree_go2_ws/src/tutorial/go2_tutorial/rviz": No such file or
+  directory.
+
+
+-- Install configuration: ""
+-- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/launch
+-- Up-to-date: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/params

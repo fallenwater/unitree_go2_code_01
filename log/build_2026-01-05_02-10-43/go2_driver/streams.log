@@ -1,0 +1,32 @@
+[0.067s] Invoking command in '/home/xn/unitree_go2_ws/build/go2_driver': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/xn/unitree_go2_ws/build/go2_driver -- -j8 -l8
+[0.725s] [35m[1mScanning dependencies of target driver[0m
+[0.725s] [ 50%] [32mBuilding CXX object CMakeFiles/driver.dir/src/driver.cpp.o[0m
+[6.449s] [100%] [32m[1mLinking CXX executable driver[0m
+[6.747s] [100%] Built target driver
+[6.756s] Invoked command in '/home/xn/unitree_go2_ws/build/go2_driver' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/xn/unitree_go2_ws/build/go2_driver -- -j8 -l8
+[6.763s] Invoking command in '/home/xn/unitree_go2_ws/build/go2_driver': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/xn/unitree_go2_ws/build/go2_driver
+[6.770s] -- Install configuration: ""
+[6.772s] -- Installing: /home/xn/unitree_go2_ws/install/go2_driver/lib/go2_driver/driver
+[6.775s] -- Set runtime path of "/home/xn/unitree_go2_ws/install/go2_driver/lib/go2_driver/driver" to ""
+[6.776s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/launch
+[6.776s] -- Installing: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/launch/driver.launch.py
+[6.776s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/params
+[6.776s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/params/driver.yaml
+[6.776s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/rviz
+[6.776s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/rviz/display.rviz
+[6.776s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/ament_index/resource_index/package_run_dependencies/go2_driver
+[6.777s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/ament_index/resource_index/parent_prefix_path/go2_driver
+[6.777s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/environment/ament_prefix_path.sh
+[6.777s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/environment/ament_prefix_path.dsv
+[6.777s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/environment/path.sh
+[6.777s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/environment/path.dsv
+[6.777s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/local_setup.bash
+[6.777s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/local_setup.sh
+[6.777s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/local_setup.zsh
+[6.777s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/local_setup.dsv
+[6.777s] -- Installing: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/package.dsv
+[6.777s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/ament_index/resource_index/packages/go2_driver
+[6.778s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/cmake/go2_driverConfig.cmake
+[6.778s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/cmake/go2_driverConfig-version.cmake
+[6.778s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/package.xml
+[6.780s] Invoked command in '/home/xn/unitree_go2_ws/build/go2_driver' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/xn/unitree_go2_ws/build/go2_driver

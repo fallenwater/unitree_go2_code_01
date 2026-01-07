@@ -1,0 +1,31 @@
+[0.066s] Invoking command in '/home/xn/unitree_go2_ws/build/go2_driver': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/xn/unitree_go2_ws/install/my_test_py:/home/xn/unitree_go2_ws/install/helloworld_py:/home/xn/unitree_go2_ws/install/go2_twist_bridge_py:/home/xn/unitree_go2_ws/install/go2_tutorial_py:/home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard:/home/xn/unitree_go2_ws/install/go2_driver_py:/opt/ros/foxy /usr/bin/cmake --build /home/xn/unitree_go2_ws/build/go2_driver -- -j8 -l8
+[1.007s] [35m[1mScanning dependencies of target driver[0m
+[1.009s] [ 50%] [32mBuilding CXX object CMakeFiles/driver.dir/src/driver.cpp.o[0m
+[7.421s] [100%] [32m[1mLinking CXX executable driver[0m
+[7.661s] [100%] Built target driver
+[7.672s] Invoked command in '/home/xn/unitree_go2_ws/build/go2_driver' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/xn/unitree_go2_ws/install/my_test_py:/home/xn/unitree_go2_ws/install/helloworld_py:/home/xn/unitree_go2_ws/install/go2_twist_bridge_py:/home/xn/unitree_go2_ws/install/go2_tutorial_py:/home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard:/home/xn/unitree_go2_ws/install/go2_driver_py:/opt/ros/foxy /usr/bin/cmake --build /home/xn/unitree_go2_ws/build/go2_driver -- -j8 -l8
+[7.676s] Invoking command in '/home/xn/unitree_go2_ws/build/go2_driver': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/xn/unitree_go2_ws/install/my_test_py:/home/xn/unitree_go2_ws/install/helloworld_py:/home/xn/unitree_go2_ws/install/go2_twist_bridge_py:/home/xn/unitree_go2_ws/install/go2_tutorial_py:/home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard:/home/xn/unitree_go2_ws/install/go2_driver_py:/opt/ros/foxy /usr/bin/cmake --install /home/xn/unitree_go2_ws/build/go2_driver
+[7.681s] -- Install configuration: ""
+[7.681s] -- Installing: /home/xn/unitree_go2_ws/install/go2_driver/lib/go2_driver/driver
+[7.683s] -- Set runtime path of "/home/xn/unitree_go2_ws/install/go2_driver/lib/go2_driver/driver" to ""
+[7.683s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/launch
+[7.683s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/launch/driver.launch.py
+[7.683s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/params
+[7.683s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/rviz
+[7.683s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/rviz/display.rviz
+[7.683s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/ament_index/resource_index/package_run_dependencies/go2_driver
+[7.683s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/ament_index/resource_index/parent_prefix_path/go2_driver
+[7.683s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/environment/ament_prefix_path.sh
+[7.684s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/environment/ament_prefix_path.dsv
+[7.684s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/environment/path.sh
+[7.684s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/environment/path.dsv
+[7.684s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/local_setup.bash
+[7.684s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/local_setup.sh
+[7.684s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/local_setup.zsh
+[7.684s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/local_setup.dsv
+[7.684s] -- Installing: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/package.dsv
+[7.684s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/ament_index/resource_index/packages/go2_driver
+[7.684s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/cmake/go2_driverConfig.cmake
+[7.684s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/cmake/go2_driverConfig-version.cmake
+[7.684s] -- Up-to-date: /home/xn/unitree_go2_ws/install/go2_driver/share/go2_driver/package.xml
+[7.685s] Invoked command in '/home/xn/unitree_go2_ws/build/go2_driver' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/xn/unitree_go2_ws/install/my_test_py:/home/xn/unitree_go2_ws/install/helloworld_py:/home/xn/unitree_go2_ws/install/go2_twist_bridge_py:/home/xn/unitree_go2_ws/install/go2_tutorial_py:/home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard:/home/xn/unitree_go2_ws/install/go2_driver_py:/opt/ros/foxy /usr/bin/cmake --install /home/xn/unitree_go2_ws/build/go2_driver

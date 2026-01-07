@@ -1,0 +1,21 @@
+[0.308s] Invoking command in '/home/xn/unitree_go2_ws/build/helloworld': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/xn/unitree_go2_ws/build/helloworld -- -j8 -l8
+[0.397s] [100%] Built target hello
+[0.731s] Invoked command in '/home/xn/unitree_go2_ws/build/helloworld' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/xn/unitree_go2_ws/build/helloworld -- -j8 -l8
+[0.733s] Invoking command in '/home/xn/unitree_go2_ws/build/helloworld': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/xn/unitree_go2_ws/build/helloworld
+[1.165s] -- Install configuration: ""
+[1.165s] -- Up-to-date: /home/xn/unitree_go2_ws/install/helloworld/lib/helloworld/hello
+[1.166s] -- Up-to-date: /home/xn/unitree_go2_ws/install/helloworld/share/ament_index/resource_index/package_run_dependencies/helloworld
+[1.166s] -- Up-to-date: /home/xn/unitree_go2_ws/install/helloworld/share/ament_index/resource_index/parent_prefix_path/helloworld
+[1.166s] -- Up-to-date: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/environment/ament_prefix_path.sh
+[1.166s] -- Up-to-date: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/environment/ament_prefix_path.dsv
+[1.166s] -- Up-to-date: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/environment/path.sh
+[1.167s] -- Up-to-date: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/environment/path.dsv
+[1.168s] -- Up-to-date: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/local_setup.bash
+[1.168s] -- Up-to-date: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/local_setup.sh
+[1.169s] -- Up-to-date: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/local_setup.zsh
+[1.169s] -- Up-to-date: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/local_setup.dsv
+[1.169s] -- Up-to-date: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/package.dsv
+[1.169s] -- Up-to-date: /home/xn/unitree_go2_ws/install/helloworld/share/ament_index/resource_index/packages/helloworld
+[1.170s] -- Up-to-date: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/cmake/helloworldConfig.cmake
+[1.170s] -- Up-to-date: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/cmake/helloworldConfig-version.cmake
+[1.171s] -- Up-to-date: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/package.xml

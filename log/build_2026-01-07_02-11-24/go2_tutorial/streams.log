@@ -1,0 +1,115 @@
+[0.025s] Invoking command in '/home/xn/unitree_go2_ws/build/go2_tutorial': CMAKE_PREFIX_PATH=/home/xn/unitree_go2_ws/install/go2_tutorial_inter:/home/xn/unitree_go2_ws/install/helloworld:/home/xn/unitree_go2_ws/install/go2_twist_bridge:/home/xn/unitree_go2_ws/install/go2_tutorial:/home/xn/unitree_go2_ws/install/go2_driver:/home/xn/unitree_go2_ws/install/go2_description:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_hg:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_go:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_api:/home/xn/unitree_ros2/cyclonedds_ws/install/rmw_cyclonedds_cpp:/home/xn/unitree_ros2/cyclonedds_ws/install/cyclonedds:/home/xn/unitree_go2_ws/install/my_test_py:/home/xn/unitree_go2_ws/install/helloworld_py:/home/xn/unitree_go2_ws/install/go2_twist_bridge_py:/home/xn/unitree_go2_ws/install/go2_tutorial_py:/home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard:/home/xn/unitree_go2_ws/install/go2_driver_py:/opt/ros/foxy PYTHONPATH=/home/xn/unitree_go2_ws/install/go2_tutorial_inter/lib/python3.8/site-packages:/home/xn/unitree_go2_ws/install/my_test_py/lib/python3.8/site-packages:/home/xn/unitree_go2_ws/install/helloworld_py/lib/python3.8/site-packages:/home/xn/unitree_go2_ws/install/go2_twist_bridge_py/lib/python3.8/site-packages:/home/xn/unitree_go2_ws/install/go2_tutorial_py/lib/python3.8/site-packages:/home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard/lib/python3.8/site-packages:/home/xn/unitree_go2_ws/install/go2_driver_py/lib/python3.8/site-packages:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_hg/lib/python3.8/site-packages:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_go/lib/python3.8/site-packages:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_api/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages /usr/bin/cmake --build /home/xn/unitree_go2_ws/build/go2_tutorial -- -j8 -l8
+[0.051s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.080s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.239s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.241s] -- Found rclcpp: 2.4.3 (/opt/ros/foxy/share/rclcpp/cmake)
+[0.289s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.292s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[0.407s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.471s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[0.479s] -- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+[0.644s] -- Found unitree_go: 0.0.0 (/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_go/share/unitree_go/cmake)
+[0.743s] -- Found unitree_api: 0.0.0 (/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_api/share/unitree_api/cmake)
+[0.814s] -- Found nav_msgs: 2.0.5 (/opt/ros/foxy/share/nav_msgs/cmake)
+[0.897s] -- Found go2_tutorial_inter: 0.0.0 (/home/xn/unitree_go2_ws/install/go2_tutorial_inter/share/go2_tutorial_inter/cmake)
+[1.061s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[1.130s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.132s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.133s] -- Configured cppcheck include dirs: $<BUILD_INTERFACE:/home/xn/unitree_go2_ws/src/tutorial/go2_tutorial/include>
+[1.133s] -- Configured cppcheck exclude dirs and/or files: 
+[1.134s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[1.134s] -- Configured cpplint exclude dirs and/or files: 
+[1.135s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.135s] -- Added test 'lint_cmake' to check CMake code style
+[1.136s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[1.137s] -- Added test 'uncrustify' to check C / C++ code style
+[1.137s] -- Configured uncrustify additional arguments: 
+[1.137s] -- Added test 'xmllint' to check XML markup files
+[1.142s] -- Configuring done
+[1.175s] -- Generating done
+[1.186s] -- Build files have been written to: /home/xn/unitree_go2_ws/build/go2_tutorial
+[1.225s] [35m[1mScanning dependencies of target go2_cruising_client[0m
+[1.225s] [35m[1mScanning dependencies of target go2_cruising_service[0m
+[1.236s] [ 25%] Built target go2_ctrl
+[1.258s] [ 50%] Built target go2_state
+[1.258s] [ 62%] [32mBuilding CXX object CMakeFiles/go2_cruising_service.dir/src/go2_cruising_service.cpp.o[0m
+[1.265s] [ 75%] [32mBuilding CXX object CMakeFiles/go2_cruising_client.dir/src/go2_cruising_client.cpp.o[0m
+[3.442s] [ 87%] [32m[1mLinking CXX executable go2_cruising_client[0m
+[3.617s] [ 87%] Built target go2_cruising_client
+[5.678s] [100%] [32m[1mLinking CXX executable go2_cruising_service[0m
+[5.875s] [100%] Built target go2_cruising_service
+[5.891s] Invoked command in '/home/xn/unitree_go2_ws/build/go2_tutorial' returned '0': CMAKE_PREFIX_PATH=/home/xn/unitree_go2_ws/install/go2_tutorial_inter:/home/xn/unitree_go2_ws/install/helloworld:/home/xn/unitree_go2_ws/install/go2_twist_bridge:/home/xn/unitree_go2_ws/install/go2_tutorial:/home/xn/unitree_go2_ws/install/go2_driver:/home/xn/unitree_go2_ws/install/go2_description:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_hg:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_go:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_api:/home/xn/unitree_ros2/cyclonedds_ws/install/rmw_cyclonedds_cpp:/home/xn/unitree_ros2/cyclonedds_ws/install/cyclonedds:/home/xn/unitree_go2_ws/install/my_test_py:/home/xn/unitree_go2_ws/install/helloworld_py:/home/xn/unitree_go2_ws/install/go2_twist_bridge_py:/home/xn/unitree_go2_ws/install/go2_tutorial_py:/home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard:/home/xn/unitree_go2_ws/install/go2_driver_py:/opt/ros/foxy PYTHONPATH=/home/xn/unitree_go2_ws/install/go2_tutorial_inter/lib/python3.8/site-packages:/home/xn/unitree_go2_ws/install/my_test_py/lib/python3.8/site-packages:/home/xn/unitree_go2_ws/install/helloworld_py/lib/python3.8/site-packages:/home/xn/unitree_go2_ws/install/go2_twist_bridge_py/lib/python3.8/site-packages:/home/xn/unitree_go2_ws/install/go2_tutorial_py/lib/python3.8/site-packages:/home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard/lib/python3.8/site-packages:/home/xn/unitree_go2_ws/install/go2_driver_py/lib/python3.8/site-packages:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_hg/lib/python3.8/site-packages:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_go/lib/python3.8/site-packages:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_api/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages /usr/bin/cmake --build /home/xn/unitree_go2_ws/build/go2_tutorial -- -j8 -l8
+[5.894s] Invoking command in '/home/xn/unitree_go2_ws/build/go2_tutorial': CMAKE_PREFIX_PATH=/home/xn/unitree_go2_ws/install/go2_tutorial_inter:/home/xn/unitree_go2_ws/install/helloworld:/home/xn/unitree_go2_ws/install/go2_twist_bridge:/home/xn/unitree_go2_ws/install/go2_tutorial:/home/xn/unitree_go2_ws/install/go2_driver:/home/xn/unitree_go2_ws/install/go2_description:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_hg:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_go:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_api:/home/xn/unitree_ros2/cyclonedds_ws/install/rmw_cyclonedds_cpp:/home/xn/unitree_ros2/cyclonedds_ws/install/cyclonedds:/home/xn/unitree_go2_ws/install/my_test_py:/home/xn/unitree_go2_ws/install/helloworld_py:/home/xn/unitree_go2_ws/install/go2_twist_bridge_py:/home/xn/unitree_go2_ws/install/go2_tutorial_py:/home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard:/home/xn/unitree_go2_ws/install/go2_driver_py:/opt/ros/foxy PYTHONPATH=/home/xn/unitree_go2_ws/install/go2_tutorial_inter/lib/python3.8/site-packages:/home/xn/unitree_go2_ws/install/my_test_py/lib/python3.8/site-packages:/home/xn/unitree_go2_ws/install/helloworld_py/lib/python3.8/site-packages:/home/xn/unitree_go2_ws/install/go2_twist_bridge_py/lib/python3.8/site-packages:/home/xn/unitree_go2_ws/install/go2_tutorial_py/lib/python3.8/site-packages:/home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard/lib/python3.8/site-packages:/home/xn/unitree_go2_ws/install/go2_driver_py/lib/python3.8/site-packages:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_hg/lib/python3.8/site-packages:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_go/lib/python3.8/site-packages:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_api/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages /usr/bin/cmake --install /home/xn/unitree_go2_ws/build/go2_tutorial
+[5.902s] -- Install configuration: ""
+[5.902s] -- Execute custom install script
+[5.904s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/lib/go2_tutorial/go2_ctrl
+[5.904s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/lib/go2_tutorial/go2_state
+[5.905s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/lib/go2_tutorial/go2_cruising_client
+[5.906s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/lib/go2_tutorial/go2_cruising_service
+[5.909s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/adl_serializer.hpp
+[5.909s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/byte_container_with_subtype.hpp
+[5.910s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/abi_macros.hpp
+[5.910s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/conversions/from_json.hpp
+[5.910s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/conversions/to_chars.hpp
+[5.911s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/conversions/to_json.hpp
+[5.911s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/exceptions.hpp
+[5.911s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/hash.hpp
+[5.911s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/input/binary_reader.hpp
+[5.912s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/input/input_adapters.hpp
+[5.912s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/input/json_sax.hpp
+[5.912s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/input/lexer.hpp
+[5.912s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/input/parser.hpp
+[5.912s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/input/position_t.hpp
+[5.913s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/iterators/internal_iterator.hpp
+[5.913s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/iterators/iter_impl.hpp
+[5.914s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/iterators/iteration_proxy.hpp
+[5.914s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/iterators/iterator_traits.hpp
+[5.914s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/iterators/json_reverse_iterator.hpp
+[5.914s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/iterators/primitive_iterator.hpp
+[5.915s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/json_custom_base_class.hpp
+[5.915s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/json_pointer.hpp
+[5.915s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/json_ref.hpp
+[5.916s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/macro_scope.hpp
+[5.916s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/macro_unscope.hpp
+[5.917s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/meta/call_std/begin.hpp
+[5.917s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/meta/call_std/end.hpp
+[5.917s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/meta/cpp_future.hpp
+[5.918s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/meta/detected.hpp
+[5.918s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/meta/identity_tag.hpp
+[5.918s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/meta/is_sax.hpp
+[5.918s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/meta/std_fs.hpp
+[5.919s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/meta/type_traits.hpp
+[5.919s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/meta/void_t.hpp
+[5.919s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/output/binary_writer.hpp
+[5.920s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/output/output_adapters.hpp
+[5.920s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/output/serializer.hpp
+[5.920s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/string_concat.hpp
+[5.921s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/string_escape.hpp
+[5.921s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/detail/value_t.hpp
+[5.921s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/json.hpp
+[5.922s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/json_fwd.hpp
+[5.922s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/ordered_map.hpp
+[5.923s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/thirdparty/hedley/hedley.hpp
+[5.923s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/thirdparty/hedley/hedley_undef.hpp
+[5.923s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/include/sport_model.hpp
+[5.925s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/launch/go2_cruising.launch.py
+[5.926s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/launch/go2_ctrl.launch.py
+[5.926s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/launch/go2_state.launch.py
+[5.927s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/params/go2_cruising_service.yaml
+[5.927s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/params/go2_state.yaml
+[5.930s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/share/ament_index/resource_index/package_run_dependencies/go2_tutorial
+[5.931s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/share/ament_index/resource_index/parent_prefix_path/go2_tutorial
+[5.934s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/environment/ament_prefix_path.sh
+[5.935s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/environment/ament_prefix_path.dsv
+[5.935s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/environment/path.sh
+[5.936s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/environment/path.dsv
+[5.936s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/local_setup.bash
+[5.937s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/local_setup.sh
+[5.937s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/local_setup.zsh
+[5.937s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/local_setup.dsv
+[5.937s] -- Symlinking: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/package.dsv
+[5.947s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/share/ament_index/resource_index/packages/go2_tutorial
+[5.948s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/cmake/go2_tutorialConfig.cmake
+[5.948s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/cmake/go2_tutorialConfig-version.cmake
+[5.948s] -- Up-to-date symlink: /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/package.xml
+[5.951s] Invoked command in '/home/xn/unitree_go2_ws/build/go2_tutorial' returned '0': CMAKE_PREFIX_PATH=/home/xn/unitree_go2_ws/install/go2_tutorial_inter:/home/xn/unitree_go2_ws/install/helloworld:/home/xn/unitree_go2_ws/install/go2_twist_bridge:/home/xn/unitree_go2_ws/install/go2_tutorial:/home/xn/unitree_go2_ws/install/go2_driver:/home/xn/unitree_go2_ws/install/go2_description:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_hg:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_go:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_api:/home/xn/unitree_ros2/cyclonedds_ws/install/rmw_cyclonedds_cpp:/home/xn/unitree_ros2/cyclonedds_ws/install/cyclonedds:/home/xn/unitree_go2_ws/install/my_test_py:/home/xn/unitree_go2_ws/install/helloworld_py:/home/xn/unitree_go2_ws/install/go2_twist_bridge_py:/home/xn/unitree_go2_ws/install/go2_tutorial_py:/home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard:/home/xn/unitree_go2_ws/install/go2_driver_py:/opt/ros/foxy PYTHONPATH=/home/xn/unitree_go2_ws/install/go2_tutorial_inter/lib/python3.8/site-packages:/home/xn/unitree_go2_ws/install/my_test_py/lib/python3.8/site-packages:/home/xn/unitree_go2_ws/install/helloworld_py/lib/python3.8/site-packages:/home/xn/unitree_go2_ws/install/go2_twist_bridge_py/lib/python3.8/site-packages:/home/xn/unitree_go2_ws/install/go2_tutorial_py/lib/python3.8/site-packages:/home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard/lib/python3.8/site-packages:/home/xn/unitree_go2_ws/install/go2_driver_py/lib/python3.8/site-packages:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_hg/lib/python3.8/site-packages:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_go/lib/python3.8/site-packages:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_api/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages /usr/bin/cmake --install /home/xn/unitree_go2_ws/build/go2_tutorial

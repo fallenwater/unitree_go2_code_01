@@ -1,0 +1,20 @@
+[0.641s] Invoking command in '/home/xn/unitree_go2_ws/build/helloworld_py': PYTHONPATH=/home/xn/unitree_go2_ws/build/helloworld_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/xn/unitree_go2_ws/install/helloworld_py/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/xn/unitree_go2_ws/build/helloworld_py/build --no-deps symlink_data --force
+[0.846s] running develop
+[0.932s] running egg_info
+[0.937s] writing helloworld_py.egg-info/PKG-INFO
+[0.937s] writing dependency_links to helloworld_py.egg-info/dependency_links.txt
+[0.937s] writing entry points to helloworld_py.egg-info/entry_points.txt
+[0.937s] writing requirements to helloworld_py.egg-info/requires.txt
+[0.937s] writing top-level names to helloworld_py.egg-info/top_level.txt
+[0.958s] reading manifest file 'helloworld_py.egg-info/SOURCES.txt'
+[0.962s] writing manifest file 'helloworld_py.egg-info/SOURCES.txt'
+[1.000s] running build_ext
+[1.001s] Creating /home/xn/unitree_go2_ws/install/helloworld_py/lib/python3.8/site-packages/site.py
+[1.003s] Creating /home/xn/unitree_go2_ws/install/helloworld_py/lib/python3.8/site-packages/helloworld-py.egg-link (link to .)
+[1.004s] Installing hello_py script to /home/xn/unitree_go2_ws/install/helloworld_py/lib/helloworld_py
+[1.005s] 
+[1.005s] Installed /home/xn/unitree_go2_ws/build/helloworld_py
+[1.005s] running symlink_data
+[1.006s] symbolically linking /home/xn/unitree_go2_ws/build/helloworld_py/resource/helloworld_py -> /home/xn/unitree_go2_ws/install/helloworld_py/share/ament_index/resource_index/packages
+[1.007s] symbolically linking /home/xn/unitree_go2_ws/build/helloworld_py/package.xml -> /home/xn/unitree_go2_ws/install/helloworld_py/share/helloworld_py
+[1.053s] Invoked command in '/home/xn/unitree_go2_ws/build/helloworld_py' returned '0': PYTHONPATH=/home/xn/unitree_go2_ws/build/helloworld_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/xn/unitree_go2_ws/install/helloworld_py/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/xn/unitree_go2_ws/build/helloworld_py/build --no-deps symlink_data --force

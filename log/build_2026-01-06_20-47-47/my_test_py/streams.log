@@ -1,0 +1,20 @@
+[0.686s] Invoking command in '/home/xn/unitree_go2_ws/build/my_test_py': PYTHONPATH=/home/xn/unitree_go2_ws/build/my_test_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/xn/unitree_go2_ws/install/my_test_py/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/xn/unitree_go2_ws/build/my_test_py/build --no-deps symlink_data --force
+[1.016s] running develop
+[1.224s] running egg_info
+[1.225s] writing my_test_py.egg-info/PKG-INFO
+[1.225s] writing dependency_links to my_test_py.egg-info/dependency_links.txt
+[1.225s] writing entry points to my_test_py.egg-info/entry_points.txt
+[1.225s] writing requirements to my_test_py.egg-info/requires.txt
+[1.230s] writing top-level names to my_test_py.egg-info/top_level.txt
+[1.279s] reading manifest file 'my_test_py.egg-info/SOURCES.txt'
+[1.280s] writing manifest file 'my_test_py.egg-info/SOURCES.txt'
+[1.341s] running build_ext
+[1.341s] Creating /home/xn/unitree_go2_ws/install/my_test_py/lib/python3.8/site-packages/site.py
+[1.344s] Creating /home/xn/unitree_go2_ws/install/my_test_py/lib/python3.8/site-packages/my-test-py.egg-link (link to .)
+[1.346s] Installing my_test_py script to /home/xn/unitree_go2_ws/install/my_test_py/lib/my_test_py
+[1.346s] 
+[1.346s] Installed /home/xn/unitree_go2_ws/build/my_test_py
+[1.347s] running symlink_data
+[1.347s] symbolically linking /home/xn/unitree_go2_ws/build/my_test_py/resource/my_test_py -> /home/xn/unitree_go2_ws/install/my_test_py/share/ament_index/resource_index/packages
+[1.347s] symbolically linking /home/xn/unitree_go2_ws/build/my_test_py/package.xml -> /home/xn/unitree_go2_ws/install/my_test_py/share/my_test_py
+[1.465s] Invoked command in '/home/xn/unitree_go2_ws/build/my_test_py' returned '0': PYTHONPATH=/home/xn/unitree_go2_ws/build/my_test_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/xn/unitree_go2_ws/install/my_test_py/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/xn/unitree_go2_ws/build/my_test_py/build --no-deps symlink_data --force

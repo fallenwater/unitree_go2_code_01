@@ -1,0 +1,46 @@
+[0.928s] Invoking command in '/home/xn/unitree_go2_ws/build/go2_tutorial': CMAKE_PREFIX_PATH=/home/xn/unitree_go2_ws/install/go2_tutorial_inter:/home/xn/unitree_go2_ws/install/helloworld:/home/xn/unitree_go2_ws/install/go2_twist_bridge:/home/xn/unitree_go2_ws/install/go2_tutorial:/home/xn/unitree_go2_ws/install/go2_driver:/home/xn/unitree_go2_ws/install/go2_description:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_hg:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_go:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_api:/home/xn/unitree_ros2/cyclonedds_ws/install/rmw_cyclonedds_cpp:/home/xn/unitree_ros2/cyclonedds_ws/install/cyclonedds:/home/xn/unitree_go2_ws/install/my_test_py:/home/xn/unitree_go2_ws/install/helloworld_py:/home/xn/unitree_go2_ws/install/go2_twist_bridge_py:/home/xn/unitree_go2_ws/install/go2_tutorial_py:/home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard:/home/xn/unitree_go2_ws/install/go2_driver_py:/opt/ros/foxy PYTHONPATH=/home/xn/unitree_go2_ws/install/go2_tutorial_inter/lib/python3.8/site-packages:/home/xn/unitree_go2_ws/install/my_test_py/lib/python3.8/site-packages:/home/xn/unitree_go2_ws/install/helloworld_py/lib/python3.8/site-packages:/home/xn/unitree_go2_ws/install/go2_twist_bridge_py/lib/python3.8/site-packages:/home/xn/unitree_go2_ws/install/go2_tutorial_py/lib/python3.8/site-packages:/home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard/lib/python3.8/site-packages:/home/xn/unitree_go2_ws/install/go2_driver_py/lib/python3.8/site-packages:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_hg/lib/python3.8/site-packages:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_go/lib/python3.8/site-packages:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_api/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages /usr/bin/cmake --build /home/xn/unitree_go2_ws/build/go2_tutorial -- -j8 -l8
+[0.997s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[1.073s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.594s] -- Found rclcpp: 2.4.3 (/opt/ros/foxy/share/rclcpp/cmake)
+[1.751s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.757s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[2.040s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.184s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[2.191s] -- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+[2.494s] -- Found unitree_go: 0.0.0 (/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_go/share/unitree_go/cmake)
+[2.694s] -- Found unitree_api: 0.0.0 (/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_api/share/unitree_api/cmake)
+[2.817s] -- Found nav_msgs: 2.0.5 (/opt/ros/foxy/share/nav_msgs/cmake)
+[2.950s] -- Found go2_tutorial_inter: 0.0.0 (/home/xn/unitree_go2_ws/install/go2_tutorial_inter/share/go2_tutorial_inter/cmake)
+[3.078s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[3.227s] -- Added test 'copyright' to check source files copyright and LICENSE
+[3.233s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[3.234s] -- Configured cppcheck include dirs: $<BUILD_INTERFACE:/home/xn/unitree_go2_ws/src/tutorial/go2_tutorial/include>
+[3.234s] -- Configured cppcheck exclude dirs and/or files: 
+[3.238s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[3.238s] -- Configured cpplint exclude dirs and/or files: 
+[3.240s] -- Added test 'flake8' to check Python code syntax and style conventions
+[3.242s] -- Added test 'lint_cmake' to check CMake code style
+[3.243s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[3.248s] -- Added test 'uncrustify' to check C / C++ code style
+[3.248s] -- Configured uncrustify additional arguments: 
+[3.251s] -- Added test 'xmllint' to check XML markup files
+[3.259s] -- Configuring done
+[3.320s] -- Generating done
+[3.340s] -- Build files have been written to: /home/xn/unitree_go2_ws/build/go2_tutorial
+[3.384s] [35m[1mScanning dependencies of target go2_cruising_service[0m
+[3.386s] [35m[1mScanning dependencies of target go2_cruising_client[0m
+[3.406s] [ 12%] [32mBuilding CXX object CMakeFiles/go2_cruising_service.dir/src/go2_cruising_service.cpp.o[0m
+[3.426s] [ 37%] Built target go2_ctrl
+[3.435s] [ 62%] Built target go2_state
+[3.456s] [ 75%] [32mBuilding CXX object CMakeFiles/go2_cruising_client.dir/src/go2_cruising_client.cpp.o[0m
+[3.596s] [ 87%] [32m[1mLinking CXX executable go2_cruising_service[0m
+[3.810s] /usr/bin/ld: /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o: in function `_start':
+[3.811s] (.text+0x24): undefined reference to `main'
+[3.811s] collect2: error: ld returned 1 exit status
+[3.815s] make[2]: *** [CMakeFiles/go2_cruising_service.dir/build.make:156：go2_cruising_service] 错误 1
+[3.815s] make[1]: *** [CMakeFiles/Makefile2:84：CMakeFiles/go2_cruising_service.dir/all] 错误 2
+[3.815s] make[1]: *** 正在等待未完成的任务....
+[6.711s] [100%] [32m[1mLinking CXX executable go2_cruising_client[0m
+[6.927s] [100%] Built target go2_cruising_client
+[6.928s] make: *** [Makefile:141：all] 错误 2
+[6.933s] Invoked command in '/home/xn/unitree_go2_ws/build/go2_tutorial' returned '2': CMAKE_PREFIX_PATH=/home/xn/unitree_go2_ws/install/go2_tutorial_inter:/home/xn/unitree_go2_ws/install/helloworld:/home/xn/unitree_go2_ws/install/go2_twist_bridge:/home/xn/unitree_go2_ws/install/go2_tutorial:/home/xn/unitree_go2_ws/install/go2_driver:/home/xn/unitree_go2_ws/install/go2_description:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_hg:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_go:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_api:/home/xn/unitree_ros2/cyclonedds_ws/install/rmw_cyclonedds_cpp:/home/xn/unitree_ros2/cyclonedds_ws/install/cyclonedds:/home/xn/unitree_go2_ws/install/my_test_py:/home/xn/unitree_go2_ws/install/helloworld_py:/home/xn/unitree_go2_ws/install/go2_twist_bridge_py:/home/xn/unitree_go2_ws/install/go2_tutorial_py:/home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard:/home/xn/unitree_go2_ws/install/go2_driver_py:/opt/ros/foxy PYTHONPATH=/home/xn/unitree_go2_ws/install/go2_tutorial_inter/lib/python3.8/site-packages:/home/xn/unitree_go2_ws/install/my_test_py/lib/python3.8/site-packages:/home/xn/unitree_go2_ws/install/helloworld_py/lib/python3.8/site-packages:/home/xn/unitree_go2_ws/install/go2_twist_bridge_py/lib/python3.8/site-packages:/home/xn/unitree_go2_ws/install/go2_tutorial_py/lib/python3.8/site-packages:/home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard/lib/python3.8/site-packages:/home/xn/unitree_go2_ws/install/go2_driver_py/lib/python3.8/site-packages:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_hg/lib/python3.8/site-packages:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_go/lib/python3.8/site-packages:/home/xn/unitree_ros2/cyclonedds_ws/install/unitree_api/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages /usr/bin/cmake --build /home/xn/unitree_go2_ws/build/go2_tutorial -- -j8 -l8

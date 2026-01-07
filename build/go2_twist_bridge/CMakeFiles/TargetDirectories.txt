@@ -1,0 +1,10 @@
+/home/xn/unitree_go2_ws/build/go2_twist_bridge/CMakeFiles/install/local.dir
+/home/xn/unitree_go2_ws/build/go2_twist_bridge/CMakeFiles/edit_cache.dir
+/home/xn/unitree_go2_ws/build/go2_twist_bridge/CMakeFiles/test.dir
+/home/xn/unitree_go2_ws/build/go2_twist_bridge/CMakeFiles/install/strip.dir
+/home/xn/unitree_go2_ws/build/go2_twist_bridge/CMakeFiles/twist_bridge.dir
+/home/xn/unitree_go2_ws/build/go2_twist_bridge/CMakeFiles/install.dir
+/home/xn/unitree_go2_ws/build/go2_twist_bridge/CMakeFiles/list_install_components.dir
+/home/xn/unitree_go2_ws/build/go2_twist_bridge/CMakeFiles/rebuild_cache.dir
+/home/xn/unitree_go2_ws/build/go2_twist_bridge/CMakeFiles/go2_twist_bridge_uninstall.dir
+/home/xn/unitree_go2_ws/build/go2_twist_bridge/CMakeFiles/uninstall.dir

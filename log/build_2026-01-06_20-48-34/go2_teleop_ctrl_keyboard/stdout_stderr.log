@@ -1,0 +1,27 @@
+running develop
+Removing /home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard/lib/python3.8/site-packages/go2-teleop-ctrl-keyboard.egg-link (link to .)
+running egg_info
+writing ../../../build/go2_teleop_ctrl_keyboard/go2_teleop_ctrl_keyboard.egg-info/PKG-INFO
+writing dependency_links to ../../../build/go2_teleop_ctrl_keyboard/go2_teleop_ctrl_keyboard.egg-info/dependency_links.txt
+writing entry points to ../../../build/go2_teleop_ctrl_keyboard/go2_teleop_ctrl_keyboard.egg-info/entry_points.txt
+writing requirements to ../../../build/go2_teleop_ctrl_keyboard/go2_teleop_ctrl_keyboard.egg-info/requires.txt
+writing top-level names to ../../../build/go2_teleop_ctrl_keyboard/go2_teleop_ctrl_keyboard.egg-info/top_level.txt
+reading manifest file '../../../build/go2_teleop_ctrl_keyboard/go2_teleop_ctrl_keyboard.egg-info/SOURCES.txt'
+writing manifest file '../../../build/go2_teleop_ctrl_keyboard/go2_teleop_ctrl_keyboard.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+creating /home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard/lib/python3.8/site-packages/go2_teleop_ctrl_keyboard
+copying /home/xn/unitree_go2_ws/build/go2_teleop_ctrl_keyboard/build/lib/go2_teleop_ctrl_keyboard/go2_teleop_ctrl_keyboard.py -> /home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard/lib/python3.8/site-packages/go2_teleop_ctrl_keyboard
+copying /home/xn/unitree_go2_ws/build/go2_teleop_ctrl_keyboard/build/lib/go2_teleop_ctrl_keyboard/__init__.py -> /home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard/lib/python3.8/site-packages/go2_teleop_ctrl_keyboard
+byte-compiling /home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard/lib/python3.8/site-packages/go2_teleop_ctrl_keyboard/go2_teleop_ctrl_keyboard.py to go2_teleop_ctrl_keyboard.cpython-38.pyc
+byte-compiling /home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard/lib/python3.8/site-packages/go2_teleop_ctrl_keyboard/__init__.py to __init__.cpython-38.pyc
+running install_data
+copying resource/go2_teleop_ctrl_keyboard -> /home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard/share/ament_index/resource_index/packages
+copying package.xml -> /home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard/share/go2_teleop_ctrl_keyboard
+running install_egg_info
+Copying ../../../build/go2_teleop_ctrl_keyboard/go2_teleop_ctrl_keyboard.egg-info to /home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard/lib/python3.8/site-packages/go2_teleop_ctrl_keyboard-0.0.0-py3.8.egg-info
+running install_scripts
+Installing go2_teleop_ctrl_keyboard script to /home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard/lib/go2_teleop_ctrl_keyboard
+writing list of installed files to '/home/xn/unitree_go2_ws/build/go2_teleop_ctrl_keyboard/install.log'

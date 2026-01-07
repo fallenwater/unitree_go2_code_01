@@ -1,0 +1,21 @@
+[0.679s] Invoking command in '/home/xn/unitree_go2_ws/src/test/my_test_py': PYTHONPATH=/home/xn/unitree_go2_ws/build/my_test_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/xn/unitree_go2_ws/install/my_test_py/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/my_test_py build --build-base /home/xn/unitree_go2_ws/build/my_test_py/build install --record /home/xn/unitree_go2_ws/build/my_test_py/install.log --install-scripts $base/lib/my_test_py --single-version-externally-managed install_data
+[0.858s] running egg_info
+[0.859s] writing ../../../build/my_test_py/my_test_py.egg-info/PKG-INFO
+[0.859s] writing dependency_links to ../../../build/my_test_py/my_test_py.egg-info/dependency_links.txt
+[0.860s] writing entry points to ../../../build/my_test_py/my_test_py.egg-info/entry_points.txt
+[0.860s] writing requirements to ../../../build/my_test_py/my_test_py.egg-info/requires.txt
+[0.860s] writing top-level names to ../../../build/my_test_py/my_test_py.egg-info/top_level.txt
+[0.882s] reading manifest file '../../../build/my_test_py/my_test_py.egg-info/SOURCES.txt'
+[0.888s] writing manifest file '../../../build/my_test_py/my_test_py.egg-info/SOURCES.txt'
+[0.888s] running build
+[0.888s] running build_py
+[0.888s] running install
+[0.888s] running install_lib
+[0.888s] running install_data
+[0.889s] running install_egg_info
+[0.889s] removing '/home/xn/unitree_go2_ws/install/my_test_py/lib/python3.8/site-packages/my_test_py-0.0.0-py3.8.egg-info' (and everything under it)
+[0.890s] Copying ../../../build/my_test_py/my_test_py.egg-info to /home/xn/unitree_go2_ws/install/my_test_py/lib/python3.8/site-packages/my_test_py-0.0.0-py3.8.egg-info
+[0.891s] running install_scripts
+[0.905s] Installing my_test_py script to /home/xn/unitree_go2_ws/install/my_test_py/lib/my_test_py
+[0.906s] writing list of installed files to '/home/xn/unitree_go2_ws/build/my_test_py/install.log'
+[0.939s] Invoked command in '/home/xn/unitree_go2_ws/src/test/my_test_py' returned '0': PYTHONPATH=/home/xn/unitree_go2_ws/build/my_test_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/xn/unitree_go2_ws/install/my_test_py/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/my_test_py build --build-base /home/xn/unitree_go2_ws/build/my_test_py/build install --record /home/xn/unitree_go2_ws/build/my_test_py/install.log --install-scripts $base/lib/my_test_py --single-version-externally-managed install_data

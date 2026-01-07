@@ -1,0 +1,25 @@
+// generated from rosidl_adapter/resource/action.idl.em
+// with input from go2_tutorial_inter/action/Nav.action
+// generated code does not contain a copyright notice
+
+#include "geometry_msgs/msg/Point.idl"
+
+module go2_tutorial_inter {
+  module action {
+    @verbatim (language="comment", text=
+      " 请求数据(前进距离)")
+    struct Nav_Goal {
+      float goal;
+    };
+    struct Nav_Result {
+      @verbatim (language="comment", text=
+        " 最终响应()")
+      geometry_msgs::msg::Point point;
+    };
+    struct Nav_Feedback {
+      @verbatim (language="comment", text=
+        " 连续反馈(剩余距离)")
+      float distance;
+    };
+  };
+};

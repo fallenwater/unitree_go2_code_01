@@ -1,0 +1,213 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				},
+				{
+					"build" : "go2_tutorial_inter__py",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/xn/unitree_go2_ws/build/go2_tutorial_inter/go2_tutorial_inter__py",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "go2_tutorial_inter",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "go2_tutorial_inter::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-go2_tutorial_inter-eecb3fe8c1f297afe9d1.json",
+					"name" : "go2_tutorial_inter",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "go2_tutorial_inter__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-go2_tutorial_inter__cpp-69559753b884912e67c7.json",
+					"name" : "go2_tutorial_inter__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "go2_tutorial_inter__py::@f99ca3d9e0d024646691",
+					"jsonFile" : "target-go2_tutorial_inter__py-08336a1980b5cbca7517.json",
+					"name" : "go2_tutorial_inter__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "go2_tutorial_inter__python::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-go2_tutorial_inter__python-f38dcd6d4e1512277801.json",
+					"name" : "go2_tutorial_inter__python",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "go2_tutorial_inter__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-go2_tutorial_inter__rosidl_generator_c-623f1e08afe780cc6318.json",
+					"name" : "go2_tutorial_inter__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "go2_tutorial_inter__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-go2_tutorial_inter__rosidl_typesupport_c-ea65db30127eafaf0e78.json",
+					"name" : "go2_tutorial_inter__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "go2_tutorial_inter__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-go2_tutorial_inter__rosidl_typesupport_c__pyext-10d7de80a5b02450bb62.json",
+					"name" : "go2_tutorial_inter__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "go2_tutorial_inter__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-go2_tutorial_inter__rosidl_typesupport_cpp-aec415bab5b437a4fae4.json",
+					"name" : "go2_tutorial_inter__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "go2_tutorial_inter__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-go2_tutorial_inter__rosidl_typesupport_fastrtps_c-62c67acf360499da45af.json",
+					"name" : "go2_tutorial_inter__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "go2_tutorial_inter__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-go2_tutorial_inter__rosidl_typesupport_fastrtps_c__pyext-730ffda42dfaf8c2aaa7.json",
+					"name" : "go2_tutorial_inter__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "go2_tutorial_inter__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-go2_tutorial_inter__rosidl_typesupport_fastrtps_cpp-0c73df1e2e836aa79cb8.json",
+					"name" : "go2_tutorial_inter__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "go2_tutorial_inter__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-go2_tutorial_inter__rosidl_typesupport_introspection_c-669e635126aa0e3afef0.json",
+					"name" : "go2_tutorial_inter__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "go2_tutorial_inter__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-go2_tutorial_inter__rosidl_typesupport_introspection_c__pyext-c98ef944815ae315c1a2.json",
+					"name" : "go2_tutorial_inter__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "go2_tutorial_inter__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-go2_tutorial_inter__rosidl_typesupport_introspection_cpp-f7323e1583546503a312.json",
+					"name" : "go2_tutorial_inter__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "go2_tutorial_inter_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-go2_tutorial_inter_uninstall-0580d3fe55ed37460bfd.json",
+					"name" : "go2_tutorial_inter_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-ad8b36755a4f6576ade7.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/xn/unitree_go2_ws/build/go2_tutorial_inter",
+		"source" : "/home/xn/unitree_go2_ws/src/tutorial/go2_tutorial_inter"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

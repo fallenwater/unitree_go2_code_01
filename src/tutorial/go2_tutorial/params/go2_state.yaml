@@ -1,0 +1,4 @@
+/**:
+  ros__parameters:
+    distance: 0.2         # 唯一距离阈值参数
+    use_sim_time: false

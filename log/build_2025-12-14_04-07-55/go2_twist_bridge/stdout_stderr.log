@@ -1,0 +1,26 @@
+[35m[1mScanning dependencies of target twist_bridge[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/twist_bridge.dir/src/twist_bridge.cpp.o[0m
+[01m[K/home/xn/unitree_go2_ws/src/base/go2_twist_bridge/src/twist_bridge.cpp:[m[K In member function ‘[01m[Kvoid TwistBridge::twist_cb(geometry_msgs::msg::Twist_<std::allocator<void> >::SharedPtr)[m[K’:
+[01m[K/home/xn/unitree_go2_ws/src/base/go2_twist_bridge/src/twist_bridge.cpp:38:66:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Ktwist[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   38 |         void twist_cb([01;35m[Kconst geometry_msgs::msg::Twist::SharedPtr twist[m[K){
+      |                       [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~[m[K
+[100%] [32m[1mLinking CXX executable twist_bridge[0m
+[100%] Built target twist_bridge
+-- Install configuration: ""
+-- Installing: /home/xn/unitree_go2_ws/install/go2_twist_bridge/lib/go2_twist_bridge/twist_bridge
+-- Set runtime path of "/home/xn/unitree_go2_ws/install/go2_twist_bridge/lib/go2_twist_bridge/twist_bridge" to ""
+-- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/ament_index/resource_index/package_run_dependencies/go2_twist_bridge
+-- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/ament_index/resource_index/parent_prefix_path/go2_twist_bridge
+-- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/environment/ament_prefix_path.sh
+-- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/environment/path.sh
+-- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/environment/path.dsv
+-- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/local_setup.bash
+-- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/local_setup.sh
+-- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/local_setup.zsh
+-- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/local_setup.dsv
+-- Installing: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/package.dsv
+-- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/ament_index/resource_index/packages/go2_twist_bridge
+-- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/cmake/go2_twist_bridgeConfig.cmake
+-- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/cmake/go2_twist_bridgeConfig-version.cmake
+-- Up-to-date: /home/xn/unitree_go2_ws/install/go2_twist_bridge/share/go2_twist_bridge/package.xml

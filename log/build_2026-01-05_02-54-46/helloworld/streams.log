@@ -1,0 +1,22 @@
+[0.078s] Invoking command in '/home/xn/unitree_go2_ws/build/helloworld': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/xn/unitree_go2_ws/install/my_test_py:/home/xn/unitree_go2_ws/install/helloworld_py:/home/xn/unitree_go2_ws/install/go2_twist_bridge_py:/home/xn/unitree_go2_ws/install/go2_tutorial_py:/home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard:/home/xn/unitree_go2_ws/install/go2_driver_py:/opt/ros/foxy /usr/bin/cmake --build /home/xn/unitree_go2_ws/build/helloworld -- -j8 -l8
+[0.420s] [100%] Built target hello
+[0.466s] Invoked command in '/home/xn/unitree_go2_ws/build/helloworld' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/xn/unitree_go2_ws/install/my_test_py:/home/xn/unitree_go2_ws/install/helloworld_py:/home/xn/unitree_go2_ws/install/go2_twist_bridge_py:/home/xn/unitree_go2_ws/install/go2_tutorial_py:/home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard:/home/xn/unitree_go2_ws/install/go2_driver_py:/opt/ros/foxy /usr/bin/cmake --build /home/xn/unitree_go2_ws/build/helloworld -- -j8 -l8
+[0.471s] Invoking command in '/home/xn/unitree_go2_ws/build/helloworld': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/xn/unitree_go2_ws/install/my_test_py:/home/xn/unitree_go2_ws/install/helloworld_py:/home/xn/unitree_go2_ws/install/go2_twist_bridge_py:/home/xn/unitree_go2_ws/install/go2_tutorial_py:/home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard:/home/xn/unitree_go2_ws/install/go2_driver_py:/opt/ros/foxy /usr/bin/cmake --install /home/xn/unitree_go2_ws/build/helloworld
+[0.508s] -- Install configuration: ""
+[0.508s] -- Up-to-date: /home/xn/unitree_go2_ws/install/helloworld/lib/helloworld/hello
+[0.508s] -- Up-to-date: /home/xn/unitree_go2_ws/install/helloworld/share/ament_index/resource_index/package_run_dependencies/helloworld
+[0.508s] -- Up-to-date: /home/xn/unitree_go2_ws/install/helloworld/share/ament_index/resource_index/parent_prefix_path/helloworld
+[0.508s] -- Up-to-date: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/environment/ament_prefix_path.sh
+[0.508s] -- Up-to-date: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/environment/ament_prefix_path.dsv
+[0.508s] -- Up-to-date: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/environment/path.sh
+[0.509s] -- Up-to-date: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/environment/path.dsv
+[0.509s] -- Up-to-date: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/local_setup.bash
+[0.509s] -- Up-to-date: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/local_setup.sh
+[0.509s] -- Up-to-date: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/local_setup.zsh
+[0.509s] -- Up-to-date: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/local_setup.dsv
+[0.509s] -- Installing: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/package.dsv
+[0.509s] -- Up-to-date: /home/xn/unitree_go2_ws/install/helloworld/share/ament_index/resource_index/packages/helloworld
+[0.509s] -- Up-to-date: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/cmake/helloworldConfig.cmake
+[0.509s] -- Up-to-date: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/cmake/helloworldConfig-version.cmake
+[0.509s] -- Up-to-date: /home/xn/unitree_go2_ws/install/helloworld/share/helloworld/package.xml
+[0.528s] Invoked command in '/home/xn/unitree_go2_ws/build/helloworld' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/xn/unitree_go2_ws/install/my_test_py:/home/xn/unitree_go2_ws/install/helloworld_py:/home/xn/unitree_go2_ws/install/go2_twist_bridge_py:/home/xn/unitree_go2_ws/install/go2_tutorial_py:/home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard:/home/xn/unitree_go2_ws/install/go2_driver_py:/opt/ros/foxy /usr/bin/cmake --install /home/xn/unitree_go2_ws/build/helloworld

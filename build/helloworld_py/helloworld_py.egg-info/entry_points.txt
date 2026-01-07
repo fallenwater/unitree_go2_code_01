@@ -1,0 +1,3 @@
+[console_scripts]
+hello_py = helloworld_py.hello_py:main
+

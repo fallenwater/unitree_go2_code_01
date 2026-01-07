@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "go2_tutorial",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "go2_cruising_client::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-go2_cruising_client-c05f594d75986eb436bb.json",
+					"name" : "go2_cruising_client",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "go2_cruising_service::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-go2_cruising_service-1fe39263e9618b819350.json",
+					"name" : "go2_cruising_service",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "go2_ctrl::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-go2_ctrl-b71059b6f24cf36e15d8.json",
+					"name" : "go2_ctrl",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "go2_state::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-go2_state-20171df751cf7a4df429.json",
+					"name" : "go2_state",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "go2_tutorial_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-go2_tutorial_uninstall-5adf74dc6347ef2b1cfe.json",
+					"name" : "go2_tutorial_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-a560376b1df7773b29c9.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/xn/unitree_go2_ws/build/go2_tutorial",
+		"source" : "/home/xn/unitree_go2_ws/src/tutorial/go2_tutorial"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

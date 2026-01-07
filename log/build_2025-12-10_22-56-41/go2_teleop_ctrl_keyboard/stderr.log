@@ -1,0 +1,5 @@
+  File "/home/xn/unitree_go2_ws/install/go2_teleop_ctrl_keyboard/lib/python3.8/site-packages/go2_teleop_ctrl_keyboard/go2_teleop_ctrl_keyboard.py", line 56
+    def publish(self.apid_id):
+                    ^
+SyntaxError: invalid syntax
+

@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/xn/unitree_go2_ws/build/go2_tutorial_inter/libgo2_tutorial_inter__rosidl_typesupport_fastrtps_c.so" "TARGETS" "go2_tutorial_inter__rosidl_typesupport_fastrtps_c" "ARCHIVE_DESTINATION" "lib" "LIBRARY_DESTINATION" "lib" "RUNTIME_DESTINATION" "bin")
