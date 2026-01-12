@@ -14,6 +14,7 @@ go2_tutorial_py/go2_cruising_service.py
 go2_tutorial_py/go2_ctrl.py
 go2_tutorial_py/go2_state.py
 go2_tutorial_py/sport_model.py
+launch/go2_all_start.launch.py
 launch/go2_cruising.launch.py
 launch/go2_ctrl.launch.py
 launch/go2_state.launch.py

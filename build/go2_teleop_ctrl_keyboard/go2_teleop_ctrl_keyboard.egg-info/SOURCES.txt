@@ -10,6 +10,7 @@ setup.py
 ../../../build/go2_teleop_ctrl_keyboard/go2_teleop_ctrl_keyboard.egg-info/zip-safe
 go2_teleop_ctrl_keyboard/__init__.py
 go2_teleop_ctrl_keyboard/go2_teleop_ctrl_keyboard.py
+launch/go2_teleop_ctrl_keyboard.launch.py
 resource/go2_teleop_ctrl_keyboard
 test/test_copyright.py
 test/test_flake8.py

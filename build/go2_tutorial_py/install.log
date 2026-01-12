@@ -14,6 +14,7 @@
 /home/xn/unitree_go2_ws/install/go2_tutorial_py/share/go2_tutorial_py/package.xml
 /home/xn/unitree_go2_ws/install/go2_tutorial_py/share/go2_tutorial_py/launch/go2_state.launch.py
 /home/xn/unitree_go2_ws/install/go2_tutorial_py/share/go2_tutorial_py/launch/go2_ctrl.launch.py
+/home/xn/unitree_go2_ws/install/go2_tutorial_py/share/go2_tutorial_py/launch/go2_all_start.launch.py
 /home/xn/unitree_go2_ws/install/go2_tutorial_py/share/go2_tutorial_py/launch/go2_cruising.launch.py
 /home/xn/unitree_go2_ws/install/go2_tutorial_py/share/go2_tutorial_py/params/go2_cruising_service.yaml
 /home/xn/unitree_go2_ws/install/go2_tutorial_py/share/go2_tutorial_py/params/go2_state.yaml
