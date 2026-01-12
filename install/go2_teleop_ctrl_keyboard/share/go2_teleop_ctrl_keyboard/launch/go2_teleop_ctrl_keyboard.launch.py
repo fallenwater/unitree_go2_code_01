@@ -30,7 +30,7 @@ def generate_launch_description():
             package="go2_teleop_ctrl_keyboard",
             executable="go2_teleop_ctrl_keyboard",
             # 这里可以新增一个窗口执行对应程序
-            prefix="xterm -e",      
+            prefix="xterm -e",      # xterm能直接启动但是terminator不行
             # prefix=["terminator", "-e", "bash", "-c"],      # 可自行选择用哪个命令行窗口执行程序，这边我用了terminator
             output="screen"
         )

@@ -48,6 +48,7 @@
 /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/thirdparty/hedley/hedley.hpp
 /home/xn/unitree_go2_ws/install/go2_tutorial/include/nlohmann/thirdparty/hedley/hedley_undef.hpp
 /home/xn/unitree_go2_ws/install/go2_tutorial/include/sport_model.hpp
+/home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/launch/go2_all_start.launch.py
 /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/launch/go2_cruising.launch.py
 /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/launch/go2_ctrl.launch.py
 /home/xn/unitree_go2_ws/install/go2_tutorial/share/go2_tutorial/launch/go2_state.launch.py
